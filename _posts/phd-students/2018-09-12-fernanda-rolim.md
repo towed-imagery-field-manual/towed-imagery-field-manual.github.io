@@ -1,16 +1,16 @@
 ---
-permalink: /students/fernanda-rolim/
+layout: article
 title: "Fernanda Rolim"
-excerpt: "Fernanda Rolim"
-author_profile: false
-classes: wide
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+excerpt: "The effects of marine protected areas on the fish fauna in Brazil: an assessment using stereo-videos "
+image:
+  feature: 
+  teaser: square-fernanda-rolim-profile.png
+  thumb: square-fernanda-rolim-profile.png
 ---
-<link rel="stylesheet" href="/_sass/academicons.css"/>
-
 ## The effects of marine protected areas on the fish fauna in Brazil: an assessment using stereo-videos 
-<img class="philprofile" src='/images/Fernanda.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-fernanda-rolim-profile.png' align='right' width="350" hspace="20" vspace="10">
 The establishment of no-take marine protected areas (MPAs), i.e. areas with total fishing restrictions, has been an alternative worldwide aiming to preserve both biodiversity and ecosystem functions. Brazil has important marine reserves with few studies describing its relevance and efficiency for marine life. With this, the central objective of this study was to evaluate the effects of MPAs to fish fauna abundance, richness, biomass and size of individuals. For this purpose, innovative techniques in Brazil, Baited Remote Underwater Stereo-videos (stereo-BRUVs) and also Diver Operated Stereo-videos (stereo-DOVs) have been used to describe and evaluate the effects of Tupinambás Ecological Station (São Paulo State) and the National Marine Park of Abrolhos (Bahia State) in reef fish assemblages. 
 
 ## About me
