@@ -3,6 +3,7 @@ layout: article
 title: "Global data synthesis"
 categories: research
 tags: [research]
+excerpt: "We have devised and implemented cloud infrastructure to collate and synthesise global marine ecological data."
 image:
   feature: 
   teaser: Globalarchive.png
