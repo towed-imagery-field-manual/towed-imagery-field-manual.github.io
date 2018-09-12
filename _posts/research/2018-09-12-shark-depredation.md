@@ -3,6 +3,7 @@ layout: article
 title: "Shark depredation"
 categories: research
 tags: [research]
+excerpt: "Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in recreational fisheries."
 image:
   feature: 
   teaser: 1_interview.png
