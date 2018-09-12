@@ -9,7 +9,7 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title">Location</h2>
-  <p class="post-excerpt">We are based at the University of Western Australia. Our research team are part of the <a href="http://www.science.uwa.edu.au/schools/biological-sciences"> School of Biological Sciences</a> and the <a href="http://handbooks.uwa.edu.au/units?section=unitcode&faccode=60&deptcode=01470"> Oceans Graduate School</a>, and we are members of the <a href="http://www.oceans.uwa.edu.au"> Oceans Institute</a>.<br><br>We are located in the newly established <a href="http://www.oceans.uwa.edu.au/collaborations/iomrc"> Indian Ocean Marine Research Centre</a> on the UWA campus.</p>
+  <p class="post-excerpt">We are based at the University of Western Australia. Our research team are part of the <a href="http://www.science.uwa.edu.au/schools/biological-sciences" target="_blank"> School of Biological Sciences</a> and the <a href="http://handbooks.uwa.edu.au/units?section=unitcode&faccode=60&deptcode=01470" target="_blank"> Oceans Graduate School</a>, and we are members of the <a href="http://www.oceans.uwa.edu.au" target="_blank"> Oceans Institute</a>.<br><br>We are located in the newly established <a href="http://www.oceans.uwa.edu.au/collaborations/iomrc" target="_blank"> Indian Ocean Marine Research Centre</a> on the UWA campus.</p>
 </div><!-- /.tile -->
   
 <div class="tile">
