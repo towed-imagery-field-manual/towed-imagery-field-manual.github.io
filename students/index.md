@@ -2,15 +2,15 @@
 layout: archive
 title: "Current Students"
 ---
-## PhD Candidates
+### PhD Candidates
 
 <div class="tiles">
 {% for post in site.categories.phd-students %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-
-## Masters and Honours Students
+<br>
+### Masters and Honours Students
 
 <div class="tiles">
 {% for post in site.categories.masters-students %}
