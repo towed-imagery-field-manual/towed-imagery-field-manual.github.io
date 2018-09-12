@@ -1,13 +1,15 @@
 ---
-permalink: /students/camilla-piggott/
+layout: article
 title: "Camilla Piggott"
-excerpt: "Camilla Piggott"
-author_profile: false
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+image:
+  feature: 
+  teaser: square-camilla-piggott-profile.png
+  thumb: square-camilla-piggott-profile.png
 ---
 ## Fish recruitment in coastal habitats of north-west Australia
-<img class="philprofile" src='/images/Milly_WS.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-camilla-piggott-profile.png' align='right' width="350" hspace="20" vspace="10">
 Fish recruitment and post-settlement survival are key ecological processes that help sustain viable, fishable, populations. Despite their importance, we have little understanding of these processes in north-west Australia. Focusing on ecological and indigenously important fish species, and working with indigenous rangers, my project aims to explore, temporal variation in recruitment processes; spatial variation in habitat use by juveniles; and quantify the relative significance of different habitats to juvenile fish throughout north-west Australia. These data will help inform indigenous management strategies in the region and will provide an insight into a fundamental fishery process in a unique and challenging environment. 
 
 ## About me
