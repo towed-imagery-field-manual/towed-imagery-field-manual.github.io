@@ -3,6 +3,7 @@ layout: article
 title: "Standard Operating Procedures and Technology innovation"
 categories: research
 tags: [research]
+excerpt: "Through the National Environmental Science Program, we have lead the development of an Australia wide Standard Operating Procedure for Baited Remote Underwater stereo-Video methods."
 image:
   feature: 
   teaser: BRUV_Steve.jpg
