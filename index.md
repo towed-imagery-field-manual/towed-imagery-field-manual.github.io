@@ -15,10 +15,3 @@ We have world leading expertise in stereo-video methods to survey marine benthic
 See our <a href="https://uwamegfisheries.github.io/research/"> Research</a> page for more details.
 
 We are located in the newly established <a href="http://www.oceans.uwa.edu.au/collaborations/iomrc"> Indian Ocean Marine Research Centre</a> on the UWA campus.
-
-
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
