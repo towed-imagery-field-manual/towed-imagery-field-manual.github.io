@@ -9,7 +9,9 @@ title: "Current Students"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br><br><br>
+<br>
+<br>
+<br>
 
 ### Masters and Honours Students
 
