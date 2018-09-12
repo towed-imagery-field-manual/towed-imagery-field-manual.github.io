@@ -1,10 +1,13 @@
 ---
-permalink: /students/anna-cresswell/
+layout: article
 title: "Anna Cresswell"
-excerpt: "Anna Cresswell"
-author_profile: false
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+excerpt: "Disturbance dynamics in coral reef ecosystems: heat waves, cyclones and fishing pressure at Ningaloo Reef"
+image:
+  feature: 
+  teaser: square-anna-cresswell-profile.png
+  thumb: square-anna-cresswell-profile.png
 ---
 ## Disturbance dynamics in coral reef ecosystems: heat waves, cyclones and fishing pressure at Ningaloo Reef
 <img class="philprofile" src='/images/Anna_WS2.jpg' align='right' width="350" hspace="20" vspace="10">
