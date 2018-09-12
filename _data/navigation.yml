@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title: "Home"
-  url: /home
-  excerpt: "this is home"
+- title: "Research"
+  url: /research
+  excerpt: ""
   image:
+- title: "Researchers"
+  url: /researchers
+  excerpt: ""
+  image:
+- title: "Staff"
+  url: /staff
+  excerpt: ""
+  image:
+- title: "Students"
+  url: /students
+  excerpt: ""
+  image: 
+- title: "Alumni"
+  url: /alumni
+  excerpt: ""
+  image: 
+- title: "Contact"
+  url: /contact
+  excerpt: ""
+  image: 
