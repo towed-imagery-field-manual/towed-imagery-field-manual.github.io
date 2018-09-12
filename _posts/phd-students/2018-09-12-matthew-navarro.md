@@ -1,13 +1,17 @@
 ---
-permalink: /students/matthew-navarro/
+layout: article
 title: "Matthew Navarro"
-excerpt: "Matthew Navarro"
-author_profile: false
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+excerpt:"Cost-benefit analysis of no-take areas"
+image:
+  feature: 
+  teaser: square-matthew-navarro-profile.png
+  thumb: square-matthew-navarro-profile.png
 ---
+
 ## Cost-benefit analysis of no-take areas
-<img class="philprofile" src='/images/Matt_N_WS.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-matthew-navarro-profile.png' align='right' width="350" hspace="20" vspace="10">
 
 ## Supervisors
 [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois")
