@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "The UWA Marine Ecology Group - Fisheries Research"
-excerpt: "test"
+excerpt: ""
 image:
   feature: reef-banner.png
 ---
