@@ -1,13 +1,16 @@
 ---
-permalink: /students/emma-jade-tuffley/
+layout: article
 title: "Emma-Jade Tuffley"
-excerpt: "Emma-Jade Tuffley"
-author_profile: false
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+excerpt: "Determining variation in catchability of western rock lobsters (*Panulirus cygnus*)"
+image:
+  feature: 
+  teaser: square-emma-jade-tuffley-profile.png
+  thumb: square-emma-jade-tuffley-profile.png
 ---
 ## Determining variation in catchability of western rock lobsters (*Panulirus cygnus*)
-<img class="philprofile" src='/images/MJ_WS.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-emma-jade-tuffley-profile.png' align='right' width="350" hspace="20" vspace="10">
 This study will investigate and quantify the environmental and biological factors that affect the catchability of the western rock lobster, *Panulirus cygnus*. Field surveys, complemented by expert knowledge and laboratory experiments, will elucidate the significant factors affecting lobster catch rates. Thorough statistical analysis will quantify the effects of these factors so that they can be built into fisheries stock assessment models. This research will be conducted in conjunction with the Fisheries division of the Departments of Primary Industries and Regional Development. Broadly, the research aims to standardise, and therefore increase the accuracy of western rock lobster stock assessments. These assessments are an integral tool, informing the majority of management decisions regarding the fishery. By improving their accuracy we can assure both the sustainability and profitability of this economically important resource.
 
 ## About me
