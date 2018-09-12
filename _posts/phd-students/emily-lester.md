@@ -1,16 +1,16 @@
 ---
-permalink: /students/emily-lester/
+layout: article
 title: "Emily Lester"
-excerpt: "Emily Lester"
-author_profile: false
-classes: wide
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+excerpt: "Behaviourally mediated trophic cascades"
+image:
+  feature: 
+  teaser: square-emily-lester-profile.png
+  thumb: square-emily-lester-profile.png
 ---
-<link rel="stylesheet" href="/_sass/academicons.css"/>
-
 ## Behaviourally mediated trophic cascades
-<img class="philprofile" src='/images/Emily_WS.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-emily-lester-profile.png' align='right' width="350" hspace="20" vspace="10">
 Fishing is rapidly removing sharks and other large predators from coral reefs, but at present we lack a complete understanding of the ecological role of these predators in such environments. It is known that sharks are likely to exert strong ecological effects either directly through prey consumption, or indirectly by inducing antipredator-or “risk effects”- behaviours in their prey. However, little is known about the behavioural mechanisms driving risk effects behaviours. My research uses a series of innovative experiments involving life-size models of large predators to simulate predation risk and to quantify a suite of risk effect behaviours in reef fishes. These experiments are a critical first step in understanding the impacts of predator removal and the mechanisms that drive trophic cascades in coral reef ecosystems.
 
 ## About me
