@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: home
 permalink: /
 title: "The UWA Marine Ecology Group - Fisheries Research"
 image:
