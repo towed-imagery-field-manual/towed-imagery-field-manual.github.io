@@ -3,6 +3,7 @@ layout: article
 title: "Camilla Piggott"
 categories: phd-students
 tags: [phd-students]
+excerpt: "Fish recruitment in coastal habitats of north-west Australia"
 image:
   feature: 
   teaser: square-camilla-piggott-profile.png
