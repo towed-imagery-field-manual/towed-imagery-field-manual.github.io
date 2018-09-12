@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Standard Operating Procedures and Technology innovation"
-categories: research
+categories: [research]
 tags: [research]
 image:
   feature:
