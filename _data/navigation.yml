@@ -1,26 +1,26 @@
 # Site navigation links
 
 - title: "Research"
-  url: /research
+  url: research
   excerpt: ""
   image:
 - title: "Researchers"
-  url: /researchers
+  url: researchers
   excerpt: ""
   image:
 - title: "Staff"
-  url: /staff
+  url: staff
   excerpt: ""
   image:
 - title: "Students"
-  url: /students
+  url: students
   excerpt: ""
   image: 
 - title: "Alumni"
-  url: /alumni
+  url: alumni
   excerpt: ""
   image: 
 - title: "Contact"
-  url: /contact
+  url: contact
   excerpt: ""
   image: 
