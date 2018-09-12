@@ -1,13 +1,17 @@
 ---
-permalink: /students/jess-kolbusz/
+layout: article
 title: "Jess Kolbusz"
-excerpt: "Jess Kolbusz"
-author_profile: false
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+excerpt: "The influence of water movements on the settlement of the Western Rock Lobster (Panulirus cygnus) throughout the fishery"
+image:
+  feature: 
+  teaser: square-jess-kolbusz-profile.png
+  thumb: square-jess-kolbusz-profile.png
 ---
+
 ## The influence of water movements on the settlement of the Western Rock Lobster (Panulirus cygnus) throughout the fishery 
-<img class="philprofile" src='/images/Jess_WS.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-jess-kolbusz-profile.png' align='right' width="350" hspace="20" vspace="10">
 The settlement of the Western Rock Lobster (early-stage known as puerulus) have been monitored for over 40 years by management authorities. Now being monitored at 7 key locations between Coral Bay and Cape Mentelle, the abundance (as an index) has been used to predict the stock of the fishery 3-4 years in the future. This relationship is being questioned due to changes in ocean circulation and temperature linkages with expected numbers of puerulus also breaking down. My research is looking at these changes and links between the abundance of puerulus and oceanographic processes with an aim to assist in spatio-temporal management of the Western Rock Lobster fishery.
 
 ## About me
