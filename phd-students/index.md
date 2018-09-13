@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: students
-title: "Current Students"
+permalink: phd-students
+title: "PhD Candidates"
 excerpt: ""
 image:
   feature: banner6.jpg
