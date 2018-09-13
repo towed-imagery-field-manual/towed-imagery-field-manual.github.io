@@ -1,7 +1,12 @@
 ---
-layout: archive
+layout: home
+permalink: students
 title: "Alumni"
+excerpt: "Past members of the Marine Ecology Group"
+image:
+  feature: banner2.jpg
 ---
+
 ### PhD Completions
 <div class="tiles">
 {% for post in site.categories.phd-alumni %}
