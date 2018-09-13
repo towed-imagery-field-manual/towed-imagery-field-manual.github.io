@@ -26,13 +26,10 @@ image:
   <h2 class="post-title"></h2>
   <p class="post-excerpt"></p>
 </div><!-- /.tiles -->
-
-
-
+</div>
 
 
 <h2>We receive funding from a broad range of partners:</h2>
-
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title"></h2>
@@ -53,6 +50,6 @@ image:
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="150"></p>
 </div><!-- /.tiles -->
-
+</div>
 
 
