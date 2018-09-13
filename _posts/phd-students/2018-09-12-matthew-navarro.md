@@ -6,8 +6,8 @@ tags: [phd-students]
 excerpt: "Cost-benefit analysis of no-take areas"
 image:
   feature: 
-  teaser: square-matthew-navarro-profile.png
-  thumb: square-matthew-navarro-profile.png
+  teaser: square-matt-navarro-profile.png
+  thumb: square-matt-navarro-profile.png
 ---
 
 ## Cost-benefit analysis of no-take areas
