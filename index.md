@@ -52,9 +52,17 @@ image:
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100%"></a></p>
 </div><!-- /.tiles -->
-</div>
 
-<div class="tiles">
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_GBINCBF.png' width="100%"></a></p>
+</div><!-- /.tiles -->
+
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_JCMF.png' width="100%"></a></p>
+</div><!-- /.tiles -->
+
 <div class="tile">
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_N.png' width="100%"></a></p>
@@ -74,9 +82,7 @@ image:
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_PA1.png' width="100%"></a></p>
 </div><!-- /.tiles -->
-</div>
 
-<div class="tiles">
 <div class="tile">
   <h2 class="post-title"></h2>
   <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_RDS.png' width="100%"></a></p>
