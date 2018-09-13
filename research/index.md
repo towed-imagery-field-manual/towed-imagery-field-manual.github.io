@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: home
+permalink: research
 title: "Current and past research projects"
+excerpt: ""
+image:
+  feature: banner4.jpg
 ---
-
 <div class="tiles">
 {% for post in site.categories.research %}
 	{% include post-grid.html %}
