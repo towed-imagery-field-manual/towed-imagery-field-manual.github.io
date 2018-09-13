@@ -6,11 +6,11 @@ excerpt: "Research Assistant"
 tags: [staff]
 image:
   feature: 
-  teaser: square-michael-taylor.png
-  thumb: square-michael-taylor.png
+  teaser: square-michael-taylor-profile.png
+  thumb: square-michael-taylor-profile.png
 ---
 ## Role 
-<img src='/images/square-michael-taylor.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-michael-taylor-profile.png' align='right' width="350" hspace="20" vspace="10">
 My main role in the Marine Ecology Group - Fisheries Lab is assisting with the research conducted by [Dr. Dianne McLean](https://uwamegfisheries.github.io/researchers/dianne-mclean/ "Dianne McLean"), running and maintaining laboratoy equipment, and helping post-graduate students with their studies. Our main research focus, at this stage, is on fish ecology and associations with offshore infrastructure in Western Australia. As a research assistant my responsibilities include field data collection, video and statistical analysis, as well as assisting in the writing and publication of research. 
 
 ## About me
