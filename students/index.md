@@ -13,9 +13,8 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<h2 class="post-title">Masters and Honours students</h2>
 <div class="tiles">
 {% for post in site.categories.masters-students %}
-	{% include post-grid.html %}
+	{% include masters-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
