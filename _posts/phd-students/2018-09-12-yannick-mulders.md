@@ -3,6 +3,7 @@ layout: article
 title: "Yannick Mulders"
 categories: phd-students
 tags: [phd-students]
+tab: students
 image:
   feature: 
   teaser: square-yannick-mulders-profile.png
