@@ -1,16 +1,17 @@
 ---
-permalink: /students/salvador-zarco-perello/
+layout: article
 title: "Salvador Zarco Perello"
-excerpt: "Salvador Zarco Perello"
-author_profile: false
-classes: wide
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+excerpt: "Persistence and impact of tropical herbivorous fish on temperate ecosystems"
+image:
+  feature: 
+  teaser: square-salvador-zarco-perello-profile.png
+  thumb: square-salvador-zarco-perello-profile.png
 ---
-<link rel="stylesheet" href="/_sass/academicons.css"/>
 
 ## Persistence and impact of tropical herbivorous fish on temperate ecosystems
-<img class="philprofile" src='https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Salvador.png?raw=true' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-salvador-zarco-perello-profile.png' align='right' width="350" hspace="20" vspace="10">
 My research is concerned with the tropicalization of temperate marine ecosystems around the world due to climate change. Global warming is driving the expansion of distributions and increases in abundances towards temperate ecosystems of species regularly found on tropical ecosystems. Among these are herbivorous fish, important ecosystem engineers with the potential to modify the habitat structure by consuming the vegetation, reducing the shelter and food that other species may depend upon. My research aims to assess three main aspects revolving around the long-term impact of tropical herbivorous on temperate ecosystems: (1) *Persistence*: reproduction, growth, recruitment and habitat associations of tropical herbivorous fish, (2) *Impact*: temporal variability of seaweed consumption, and (3) *Future scenarios*: forecast further distribution expansions and possible hot-spots of high levels of herbivory in south-western Australia in the future. 
 
 ## About me
