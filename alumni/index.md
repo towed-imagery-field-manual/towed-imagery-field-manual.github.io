@@ -5,7 +5,7 @@ title: "Alumni"
 ### PhD Completions
 <div class="tiles">
 {% for post in site.categories.phd-alumni %}
-	{% include post-grid.html %}
+	{% include alumni-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 <br><br><br><br><br><br><br><br><br><br><br>
