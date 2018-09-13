@@ -1,13 +1,17 @@
 ---
-permalink: /students/michael-brooker/
+layout: article
 title: "Michael Brooker"
-excerpt: "Michael Brooker"
-author_profile: false
-sidebar:
-  nav: "students"
+categories: phd-students
+excerpt: "Recruitment Dynamics of Western Rock Lobster: Improving Knowledge of the Juvenile Life History of Panulirus cygnus."
+tags: [phd-students]
+image:
+  feature: 
+  teaser: square-michael-brooker-profile.png
+  thumb: square-michael-brooker-profile.png
 ---
+
 ## Recruitment Dynamics of Western Rock Lobster: Improving Knowledge of the Juvenile Life History of Panulirus cygnus.
-<img class="philprofile" src='/images/Brooker_WS.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-michael-brooker-profile.png' align='right' width="350" hspace="20" vspace="10">
 This project will use a variety of fisheries dependent and independent techniques to investigate and quantify the environmental and biological factors that affect the recruitment and survival of juvenile western rock lobster (WRL; Panulirus cygnus, George 1962). Field surveys will be conducted in conjunction with laboratory feeding preference aquaria trials and will be complemented by expert elicitation conducted with fishers of the commercial WRL fishery. This study will have a particular focus on settling puerulus and early juvenile WRL. In order to assess the number of new recruits entering the system, this study will use the data obtained from the DPIRD puerulus collectors along the WA coastline and deploy 40 additional puerulus collectors from Seven Mile Beach, Dongara to the Beagle Islands. The abundance of post settled early juveniles will be assessed using several methods including traps and novel casitas developed by this study. The methods used for collecting settling and post settlement early juveniles will be compared to identify the most effective methods. In addition to examining the early life stages of WRL, expert elicitation will be undertaken with fishers to investigate their perceptions of changes that may have been observed in the fishery and this will be used in conjunction with the commercial WRL catch data held by DPIRD. This research will be conducted in conjunction with the Fisheries division of DPIRD. Overall this research aims to contribute information on the recruitment dynamics of WRL to the fishery and to therefore potentially increase the accuracy of western rock lobster stock assessments.
 
 ## About me
