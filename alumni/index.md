@@ -8,7 +8,7 @@ title: "Alumni"
 	{% include alumni-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Masters Completions
 <div class="tiles">
