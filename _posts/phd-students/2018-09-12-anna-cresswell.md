@@ -10,7 +10,7 @@ image:
   thumb: square-anna-cresswell-profile.png
 ---
 ## Disturbance dynamics in coral reef ecosystems: heat waves, cyclones and fishing pressure at Ningaloo Reef
-<img class="philprofile" src='/images/Anna_WS2.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-anna-cresswell-profile.png' align='right' width="350" hspace="20" vspace="10">
 We are in a state of accelerated change, associated with increases in the intensity and frequency of disturbances to natural systems. Understanding the dynamics of change is necessary to manage natural systems and my research looks at several key components of marine ecosystems and how their dynamics are linked to disturbance.
 
 Using multiple different methods - fieldwork, statistical analyses and modelling - I am investigating the response of key components of coral reef ecosystems to acute and chronic perturbations. In considering acute perturbations one chapter of my thesis seeks to quantitatively summarise the literature that has documented the impacts of acute climatic disturbances in key marine habitats: coral reefs, mangroves, seagrass, and kelp forests. I then focus on the role of cyclones as an acute disturbance in coral reef systems in particular, considering how the growth structures of corals link to their vulnerability to disturbance. Moving to chronic disturbances, I focus on fishing at Ningaloo Reef, investigating how fishing has effected the ecosystem over the last 30 years.
