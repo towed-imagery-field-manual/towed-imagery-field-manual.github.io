@@ -11,7 +11,7 @@ image:
 ---
 
 ## Cost-benefit analysis of no-take areas
-<img src='/images/square-matthew-navarro-profile.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-matt-navarro-profile.png' align='right' width="350" hspace="20" vspace="10">
 
 ## Supervisors
 [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois")
