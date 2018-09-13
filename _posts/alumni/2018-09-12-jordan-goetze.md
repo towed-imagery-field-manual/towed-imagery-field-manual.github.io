@@ -2,7 +2,7 @@
 layout: article
 title: "Jordan Goetze"
 categories: phd-alumni
-url: "https://staffportal.curtin.edu.au/staff/profile/view/Jordan.Goetze"
+link: "https://staffportal.curtin.edu.au/staff/profile/view/Jordan.Goetze"
 excerpt: "The effectiveness of periodically harvested closures as a fisheries management strategy"
 image:
   feature: 
