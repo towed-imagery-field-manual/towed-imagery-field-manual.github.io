@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: students
+permalink: alumni
 title: "Alumni"
 excerpt: "Past members of the Marine Ecology Group"
 image:
