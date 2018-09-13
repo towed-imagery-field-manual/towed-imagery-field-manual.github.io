@@ -14,7 +14,7 @@ image:
   
 <div class="tile">
   <h2 class="post-title">Facebook</h2>
-  <p class="post-excerpt"></p>
+  <p class="post-excerpt"><a href="https://www.facebook.com/marineecologygroupUWA/?ref=br_rs"><img src='/images/facebook-logo_bw.jpg' width="82" height="86"></a></p>
 </div><!-- /.tile -->
   
 <div class="tile">
