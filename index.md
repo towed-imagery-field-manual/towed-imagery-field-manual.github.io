@@ -27,52 +27,52 @@ image:
   <p class="post-excerpt"> </p>
 </div><!-- /.tiles -->
 </div>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
-<h2>We receive funding from a broad range of partners:</h2>
+<h3>We receive funding from a broad range of partners:</h3>
 </div>
 
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_AMCS1.png' width="20%"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_AMCS1.png' width="100%"></a></p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_ANDS.png' width="20%"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_ANDS.png' width="100%"></a></p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_AODN2.png' width="20%"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_AODN2.png' width="100%"></a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="20%"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100%"></a></p>
 </div><!-- /.tiles -->
 </div>
 
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_N.png' width="20%"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_N.png' width="100%"></a></p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_NCRIS2.png' width="20%"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_NCRIS2.png' width="100%"></a></p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_NESP1.png' width="20%"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_NESP1.png' width="100%"></a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_PA1.png' width="20%"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_PA1.png' width="100%"></a></p>
 </div><!-- /.tiles -->
 </div>
 
