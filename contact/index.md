@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /contact
+permalink: contact
 title: "Get in touch"
 excerpt: ""
 image:
