@@ -23,3 +23,33 @@ image:
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+
+
+
+
+<h2>We receive funding from a broad range of partners:</h2>
+
+<div class="tiles">
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_AMCS1.png' width="100"></a></p>
+</div><!-- /.tile -->
+  
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_RFIF1.png' width="100"></p>
+</div><!-- /.tile -->
+  
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_WRLC1.png' width="100"></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100"></p>
+</div><!-- /.tiles -->
+
+
+
