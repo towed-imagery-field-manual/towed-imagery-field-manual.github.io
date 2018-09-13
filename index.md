@@ -27,9 +27,9 @@ image:
   <p class="post-excerpt"> </p>
 </div><!-- /.tiles -->
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
-<h3>We receive funding from a broad range of partners:</h3>
+<h4>We receive funding from a broad range of partners:</h4>
 </div>
 
 <div class="tiles">
@@ -76,4 +76,24 @@ image:
 </div><!-- /.tiles -->
 </div>
 
+<div class="tiles">
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_RDS.png' width="100%"></a></p>
+</div><!-- /.tile -->
+  
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_RFIF1.png' width="100%"></a></p>
+</div><!-- /.tile -->
+  
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_RFT2.png' width="100%"></a></p>
+</div><!-- /.tile -->
 
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_WRLC1.png' width="100%"></a></p>
+</div><!-- /.tiles -->
+</div>
