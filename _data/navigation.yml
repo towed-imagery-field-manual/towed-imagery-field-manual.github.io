@@ -2,25 +2,29 @@
 
 - title: "Research"
   url: research
-  excerpt: ""
+  excerpt: "Current and past research projects"
   image:
 - title: "Researchers"
   url: researchers
-  excerpt: ""
+  excerpt: "Current research staff"
   image:
 - title: "Staff"
   url: staff
-  excerpt: ""
+  excerpt: "Current staff members"
   image:
-- title: "Students"
-  url: students
-  excerpt: ""
+- title: "PhD Candidates"
+  url: phd-students
+  excerpt: "Current PhD Candidates"
+  image: 
+- title: "Postgraduates"
+  url: masters-students
+  excerpt: "Current postgraduate students"
   image: 
 - title: "Alumni"
   url: alumni
-  excerpt: ""
-  image: 
+  excerpt: "Past members"
+  image: banner5.jpg
 - title: "Contact"
   url: contact
-  excerpt: ""
-  image: 
+  excerpt: "Get in touch"
+  image: banner6.jpg
