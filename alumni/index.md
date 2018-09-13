@@ -20,7 +20,7 @@ title: "Alumni"
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br>
+<br><br><br>
 
 ### Honours Completions
 <div class="tiles">
@@ -30,7 +30,7 @@ title: "Alumni"
 </div><!-- /.tiles -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ### Staff Alumni
 <div class="tiles">
