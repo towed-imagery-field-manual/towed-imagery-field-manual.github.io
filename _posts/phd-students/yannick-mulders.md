@@ -1,13 +1,15 @@
 ---
-permalink: /students/yannick-mulders/
+layout: article
 title: "Yannick Mulders"
-excerpt: "Yannick Mulders"
-author_profile: false
-sidebar:
-  nav: "students"
+categories: phd-students
+tags: [phd-students]
+image:
+  feature: 
+  teaser: square-yannick-mulders-profile.png
+  thumb: square-yannick-mulders-profile.png
 ---
 ## Functional redundancy of seaweed canopies
-<img class="philprofile" src='/images/Yannick_WS2.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-yannick-mulders-profile.png' align='right' width="350" hspace="20" vspace="10">
 Environments all around the world are changing under the pressure of human activities. Many temperate marine ecosystems have experienced major shifts in the main habitat forming seaweed species. In Western Australia, for example, there have been major shifts in the distribution and abundance of Ecklonia radiata, Scytotalia dorycarpa, Sargassumspp. and small foliose and turf forming species. The exact nature of functions provided by these different types of seaweeds and, in particular, the degree to which these are unique or overlap are poorly understood. As a consequence, we know little about how recorded and projected shifts in seaweed species will affect the overall ecosystem dynamics. The main objective of my research is to quantify ecological functions of prominent seaweed habitats and investigate to what extent there is a functional redundancy between different seaweeds. 
 
 ## Supervisors
