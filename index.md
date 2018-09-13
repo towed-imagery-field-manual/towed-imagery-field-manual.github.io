@@ -22,6 +22,9 @@ image:
   <p class="post-excerpt">We have world leading expertise in stereo-video methods to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour; with on-going collaboratorations around Australia and internationally across socio-economics, oceanography and statistical theory.<br><br>See our <a href="https://uwamegfisheries.github.io/research/"> Research</a> page for more details.</p>
 </div><!-- /.tile -->
 
+<div class="tile">
+  <h2 class="post-title"></h2>
+  <p class="post-excerpt"></p>
 </div><!-- /.tiles -->
 
 
@@ -33,22 +36,22 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_AMCS1.png' width="100"></a></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_AMCS1.png' width="150"></a></p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_RFIF1.png' width="100"></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_RFIF1.png' width="150"></p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_WRLC1.png' width="100"></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_WRLC1.png' width="150"></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"></h2>
-  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="100"></p>
+  <p class="post-excerpt"><a href="" target="_blank"><img src='/images/logos/logo_FRDC1.png' width="150"></p>
 </div><!-- /.tiles -->
 
 
