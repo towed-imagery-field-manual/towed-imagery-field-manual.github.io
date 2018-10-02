@@ -4,7 +4,7 @@ permalink: /
 title: "UWA Marine Ecology Group<br>Fisheries Research"
 excerpt: ""
 image:
-  feature: Reef.jpg
+  feature: Reef2.jpg
 ---
 <div class="tiles">
 <div class="tile">
@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"> </h2>
-  <p class="post-excerpt"><a href="http://www.oceans.uwa.edu.au/collaborations/iomrc" target="_blank"><img src='/images/IOMRC2.PNG' width="100%"></a></p>
+  <p class="post-excerpt"><a href="http://www.oceans.uwa.edu.au/collaborations/iomrc" target="_blank"><img src='/images/IOMRC3.PNG' width="100%"></a></p>
 </div><!-- /.tiles -->
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
