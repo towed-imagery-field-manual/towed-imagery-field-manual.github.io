@@ -19,10 +19,10 @@ I grew up in the UK where I completed my Bachelor of Science with Honours (Biolo
 [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois") (UWA), Dr. Mark Meekan (AIMS), and Prof. Gary Kendrick (UWA) 
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+<img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:emily.lester@research.uwa.edu.au"> emily.lester@research.uwa.edu.au</a><br>
-<i class="fas fa-phone"></i>&nbsp;&nbsp; +614 5638 7038<br>
-<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Emily_Lester2"> ResearchGate</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:emily.lester@research.uwa.edu.au"> emily.lester@research.uwa.edu.au</a><br>
+<img src='/images/icons/phone-solid.svg' width="15px"> +614 5638 7038<br>
+<img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="https://www.researchgate.net/profile/Emily_Lester2"> ResearchGate</a><br>
