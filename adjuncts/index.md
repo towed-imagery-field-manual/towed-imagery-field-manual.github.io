@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: research
+permalink: adjuncts
 title: "Adjuncts"
 excerpt: " <br> <br>"
 image:
