@@ -20,10 +20,10 @@ Growing up in the UK I developed a keen love for the ocean from an early age and
 [Dr Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois"), Dr Martial Depczynski, Dr Monica Gagliano, and Dr Gary Kendrick.
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> School of Biological Sciences<br>
-The University of Western Australia (M092)<br>
+<img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
+School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:camilla.piggott@research.uwa.edu.au ">camilla.piggott@research.uwa.edu.au </a><br>
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F6SSOss6B5B00lVgV2H7Nub_UdW924_bkVYyFG6d929RJTkwhZok5Ap7kp5pXia4t4RAg6Vv1qrpB1zhchiSgBU-umq_g&user=jbDLExEAAAAJ">Google Scholar</a><br>
-<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Camilla_Piggott"> ResearchGate</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:camilla.piggott@research.uwa.edu.au ">camilla.piggott@research.uwa.edu.au </a><br>
+<img src='/images/icons/google-brands.svg' width="15px"> <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F6SSOss6B5B00lVgV2H7Nub_UdW924_bkVYyFG6d929RJTkwhZok5Ap7kp5pXia4t4RAg6Vv1qrpB1zhchiSgBU-umq_g&user=jbDLExEAAAAJ">Google Scholar</a><br>
+<img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="https://www.researchgate.net/profile/Camilla_Piggott"> ResearchGate</a><br>
