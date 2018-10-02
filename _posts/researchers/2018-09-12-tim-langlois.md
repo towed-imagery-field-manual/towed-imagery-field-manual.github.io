@@ -31,16 +31,16 @@ See our [Research](https://uwamegfisheries.github.io/research/ "Research") page 
 [SCIE5505 Global Change and the Marine Environment](http://handbooks.uwa.edu.au/unitdetails?code=SCIE5505 "SCIE5505 Global Change and the Marine Environment") 
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+<img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:tim.langlois@uwa.edu.au"> tim.langlois@uwa.edu.au</a><br>
-<i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 4733</p>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:tim.langlois@uwa.edu.au"> tim.langlois@uwa.edu.au</a><br>
+<img src='/images/icons/phone-solid.svg' width="15px"> +618 6488 4733</p>
 
 ## Publications
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
-<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
+<img src='/images/icons/google-brands.svg' width="15px"> <a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
+<img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
 
 ## About me
 
