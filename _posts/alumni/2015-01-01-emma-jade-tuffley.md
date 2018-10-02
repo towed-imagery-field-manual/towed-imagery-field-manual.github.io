@@ -2,7 +2,7 @@
 layout: article
 title: "Emma-Jade Tuffley"
 categories: honours-alumni
-link: ""
+link: "https://uwamegfisheries.github.io/phd-students/emma-jade-tuffley/"
 excerpt: "Methodological comparison for sampling populations of a commercially important rock lobster species (2015)"
 image:
   feature: 
