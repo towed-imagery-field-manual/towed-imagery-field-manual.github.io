@@ -22,11 +22,11 @@ Prof Charitha Pattiaratchi (OGS), [Dr Tim Langlois](https://uwamegfisheries.gith
 
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> School of Biological Sciences<br>
+<img src='/images/icons/building-regular.svg' width="15px"> School of Biological Sciences<br>
 The University of Western Australia (M092)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:jessica.kolbusz@research.uwa.edu.au">jessica.kolbusz@research.uwa.edu.au</a><br>
-<i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 8790<br>
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com.au/citations?user=Vw3_A1YAAAAJ&hl=en">Google Scholar</a><br>
-<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Jessica_Kolbusz"> ResearchGate</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:jessica.kolbusz@research.uwa.edu.au">jessica.kolbusz@research.uwa.edu.au</a><br>
+<img src='/images/icons/phone-solid.svg' width="15px"> +618 6488 8790<br>
+<img src='/images/icons/google-brands.svg' width="15px"> <a href="https://scholar.google.com.au/citations?user=Vw3_A1YAAAAJ&hl=en">Google Scholar</a><br>
+<img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="https://www.researchgate.net/profile/Jessica_Kolbusz"> ResearchGate</a><br>
