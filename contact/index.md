@@ -2,7 +2,7 @@
 layout: home
 permalink: contact
 title: "Get in touch"
-excerpt: " <br> <br>"
+excerpt: " <br> <br> <br> <br>"
 image:
   feature: banner.jpg
 ---
