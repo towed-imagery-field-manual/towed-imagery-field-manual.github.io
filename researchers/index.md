@@ -14,7 +14,7 @@ image:
 </div><!-- /.tiles -->
 <br><br><br><br><br><br>
 
-<div><h2 class="post-title">Current Research Assistants</h2></div>
+<div><h2 class="post-title">Current Staff</h2></div>
 <div class="tiles">
 {% for post in site.categories.staff %}
 	{% include post-grid.html %}
