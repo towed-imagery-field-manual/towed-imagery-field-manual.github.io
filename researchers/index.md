@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: researchers
-title: "Researchers and Staff<br> <br>"
-excerpt: ""
+title: "Researchers and Staff"
+excerpt: " <br> <br>"
 image:
   feature: 20110808_077.jpg
 ---
