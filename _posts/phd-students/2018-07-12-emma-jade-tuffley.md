@@ -20,8 +20,8 @@ As a born and bred West Australian, I have spent the majority of my life in or a
 [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois"), Gary Kendrick, Simon de Lestang, and Jason How
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+<img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:20262819@student.uwa.edu.au">20262819@student.uwa.edu.au</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> 20262819@student.uwa.edu.au</a><br>
