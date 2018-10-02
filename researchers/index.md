@@ -12,7 +12,7 @@ image:
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div><h2 class="post-title">Current Staff</h2></div>
 <div class="tiles">
