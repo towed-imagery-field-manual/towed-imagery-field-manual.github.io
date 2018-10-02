@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: research
-title: "Research Projects<br>"
+title: "Research Projects<br> <br>"
 excerpt: "        "
 image:
   feature: banner5.jpg
