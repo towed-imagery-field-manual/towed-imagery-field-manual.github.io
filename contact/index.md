@@ -9,7 +9,7 @@ image:
 <div class="tiles">
 <div class="tile">
   <h2 class="post-title">Address</h2>
-  <p class="post-excerpt">Indian Ocean Marine Research Centre<br>The University of Western Australia (M092)<br>64 Fairway, Crawley WA 6009</p>
+  <p class="post-excerpt"><img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre<br>The University of Western Australia (M092)<br>64 Fairway, Crawley WA 6009</p>
 </div><!-- /.tile -->
   
 <div class="tile">
