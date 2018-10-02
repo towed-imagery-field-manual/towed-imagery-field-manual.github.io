@@ -21,12 +21,12 @@ I graduated as Marine Biologist with my research on spatial interpolation analys
 [Dr. Thomas Wernberg](https://wernberglab.org/) (UWA), [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois") (UWA), Dr. Mat Vanderklift (CSIRO), Dr. Tom Holmes (DBCA). 
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+<img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:salvador.zarcoperello@research.uwa.edu.au"> salvador.zarcoperello@research.uwa.edu.au</a><br>
-<i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 4533<br>
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="http://tiny.cc/ZPScholar ">Google Scholar</a><br>
-<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="http://tinyurl.com/ZPSResearch "> ResearchGate</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:salvador.zarcoperello@research.uwa.edu.au"> salvador.zarcoperello@research.uwa.edu.au</a><br>
+<img src='/images/icons/phone-solid.svg' width="15px"> +618 6488 4533<br>
+<img src='/images/icons/google-brands.svg' width="15px"> <a href="http://tiny.cc/ZPScholar ">Google Scholar</a><br>
+<img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="http://tinyurl.com/ZPSResearch "> ResearchGate</a><br>
 
