@@ -3,7 +3,7 @@ layout: article
 title: "Emma-Jade Tuffley"
 categories: phd-students
 tags: [phd-students]
-excerpt: "Determining variation in catchability of western rock lobsters (*Panulirus cygnus*)"
+excerpt: "Determining variation in catchability of western rock lobsters (<i>Panulirus cygnus<i>)"
 image:
   feature: 
   teaser: square-emma-jade-tuffley-profile.png
