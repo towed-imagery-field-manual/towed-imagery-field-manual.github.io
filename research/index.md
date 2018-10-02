@@ -4,7 +4,7 @@ permalink: research
 title: "Research Projects<br> <br>"
 excerpt: "        "
 image:
-  feature: BRUV_Steve_cropped2.jpg
+  feature: BRUV_Steve_2_cropped
 ---
 <h2 class="post-title"> </h2>
 <div class="tiles">
