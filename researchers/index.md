@@ -4,7 +4,7 @@ permalink: researchers
 title: "Researchers and Staff<br> <br>"
 excerpt: ""
 image:
-  feature: banner4.jpg
+  feature: 20110808_077.jpg
 ---
 <h2 class="post-title"> </h2>
 <div class="tiles">
