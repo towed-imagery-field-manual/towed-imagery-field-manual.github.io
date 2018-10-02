@@ -8,10 +8,6 @@
   url: researchers
   excerpt: "Current research staff"
   image: banner2.jpg
-- title: "Staff"
-  url: staff
-  excerpt: "Current staff members"
-  image: banner3.jpg
 - title: "Students"
   url: students
   excerpt: "Current PhD candidates and postgraduate students"
