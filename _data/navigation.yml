@@ -16,6 +16,10 @@
   url: alumni
   excerpt: "Past members"
   image: banner5.jpg
+- title: "Adjuncts"
+  url: adjuncts
+  excerpt: "Current Adjuncts"
+  image: banner3.jpg
 - title: "Contact"
   url: contact
   excerpt: "Get in touch"
