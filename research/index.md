@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: research
-title: "Research projects"
-excerpt: "Current and past"
+title: "Research Projects"
+excerpt: " "
 image:
   feature: banner5.jpg
 ---
