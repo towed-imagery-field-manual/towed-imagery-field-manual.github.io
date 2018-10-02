@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: researchers
-title: "Researchers and Staff"
+title: "Researchers and Staff<br> <br>"
 excerpt: ""
 image:
   feature: banner4.jpg
