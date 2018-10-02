@@ -20,9 +20,9 @@ I'm Perth born and bred and have been in and around the ocean my whole life. Gro
 [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/), [Dr Dianne McLean](https://uwamegfisheries.github.io/researchers/dianne-mclean/), [Jonathan Mitchell](https://uwamegfisheries.github.io/students/jonathon-mitchell/), and Dr Gary Jackson 
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+<img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:21489187@student.uwa.edu.au"> 21489187@student.uwa.edu.au</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:21489187@student.uwa.edu.au"> 21489187@student.uwa.edu.au</a><br>
 
