@@ -3,7 +3,7 @@
 - title: "Research"
   url: research
   excerpt: "Current and past research projects"
-#  image: banner.jpg
+  image: 5x8_BRUV.jpg
 - title: "Researchers"
   url: researchers
   excerpt: "Current research staff"
@@ -11,16 +11,16 @@
 - title: "Students"
   url: students
   excerpt: "Current PhD candidates and postgraduate students"
-#  image: banner4.jpg
+  image: 5x8_Jon.png
 - title: "Alumni"
   url: alumni
   excerpt: "Past members"
-#  image: banner5.jpg
+  image: 5x8_Julia.png
 - title: "Adjuncts"
   url: adjuncts
   excerpt: "Current Adjuncts"
-#  image: banner3.jpg
+  image: 5x8_Todd.jpg
 - title: "Contact"
   url: contact
   excerpt: "Get in touch"
-#  image: banner6.jpg
+  image: 5x8_Damsel.jpg
