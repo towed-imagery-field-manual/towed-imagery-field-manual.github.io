@@ -6,11 +6,11 @@ tags: [staff]
 excerpt: "Research Assistant"
 image:
   feature: 
-  teaser: square-brooke-gibbons-profile.png
-  thumb: square-brooke-gibbons-profile.png
+  teaser: brooke-gibbons.png
+  thumb: brooke-gibbons.png
 ---
 ## Role
-<img src='/images/square-brooke-gibbons-profile.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/brooke-gibbons.png' align='right' width="350" hspace="20" vspace="10">
 My main roles in the UWA Marine Ecology Fisheries research lab include statistical analysis, planning and conducting fieldwork, database collation and helping postgraduate students with their studies.
 
 ## About me
