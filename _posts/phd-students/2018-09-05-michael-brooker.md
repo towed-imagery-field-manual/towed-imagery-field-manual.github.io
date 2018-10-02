@@ -21,11 +21,11 @@ I previously  attended UWA as an undergraduate student in 2011-2013 in the Marin
 [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois"), Dr. Thomas Wernberg, Simon de Lestang, Jason How, and Graham Edgar.
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+<img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:michael.brooker@research.uwa.edu.au"> michael.brooker@research.uwa.edu.au</a><br>
-<i class="fas fa-phone"></i>&nbsp;&nbsp; +614 3364 4656<br>
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="http://www.linkedin.com/in/michaelabrooker">LinkedIn</a><br>
-<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Michael_Brooker5"> ResearchGate</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:michael.brooker@research.uwa.edu.au"> michael.brooker@research.uwa.edu.au</a><br>
+<img src='/images/icons/phone-solid.svg' width="15px"> +614 3364 4656<br>
+<img src='/images/icons/google-brands.svg' width="15px"> <a href="http://www.linkedin.com/in/michaelabrooker">LinkedIn</a><br>
+<img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="https://www.researchgate.net/profile/Michael_Brooker5"> ResearchGate</a><br>
