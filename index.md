@@ -1,7 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "UWA Marine Ecology Group<br>Fisheries Research"
+title: "UWA Marine Ecology Group
+Fisheries Research"
 excerpt: " <br> <br> <br> "
 image:
   feature: 20150613_074.jpg
