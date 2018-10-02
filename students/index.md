@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: students
-title: "Students<br> <br>"
-excerpt: ""
+title: "Students"
+excerpt: " <br> <br>"
 image:
   feature: 20100425_039.jpg
 ---
