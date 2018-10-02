@@ -11,7 +11,7 @@ image:
 ---
 ## Research
 
-<img class="philprofile" src='/images/tim.new.png' align='right' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/square-tim-langlois-profile.png' align='right' width="350" hspace="20" vspace="10">
 
 I am a marine ecologist focused on understanding the optimal way that both commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. I have used no-take marine reserves and fisheries closure to better understand ecosytem dynamics and the impacts of fishing. I have demonstrated that these closures can provide important value-adding to fisheries science.
 
