@@ -18,7 +18,7 @@ image:
 ### Masters Completions
 <div class="tiles">
 {% for post in site.categories.masters-alumni %}
-	{% include post-grid.html %}
+	{% include alumni-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -30,7 +30,7 @@ image:
 ### Honours Completions
 <div class="tiles">
 {% for post in site.categories.honours-alumni %}
-	{% include post-grid.html %}
+	{% include alumni-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -40,6 +40,6 @@ image:
 ### Staff Alumni
 <div class="tiles">
 {% for post in site.categories.staff-alumni %}
-	{% include post-grid.html %}
+	{% include alumni-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
