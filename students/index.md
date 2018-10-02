@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: students
-title: "Current Students"
+title: "Students<br> <br>"
 excerpt: ""
 image:
   feature: 20150613_074.jpg
