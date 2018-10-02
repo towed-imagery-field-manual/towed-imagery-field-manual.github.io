@@ -2,7 +2,7 @@
 layout: article
 title: "Emily Lester"
 categories: masters-alumni
-link: ""
+link: "https://uwamegfisheries.github.io/phd-students/emily-lester/"
 excerpt: "(2015)"
 image:
   feature: 
