@@ -4,7 +4,7 @@ permalink: students
 title: "Current Students"
 excerpt: ""
 image:
-  feature: /banners/20100425_039.jpg
+  feature: banners/20100425_039.jpg
 ---
 
 <h2 class="post-title">PhD Candidates</h2>
