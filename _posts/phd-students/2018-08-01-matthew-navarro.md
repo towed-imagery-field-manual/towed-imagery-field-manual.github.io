@@ -17,8 +17,7 @@ image:
 [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois")
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> School of Biological Sciences<br>
-The University of Western Australia (M092)<br>
+<img src='/images/icons/building-regular.svg' width="15px"> School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:matthew.navarro@research.uwa.edu.au">matthew.navarro@research.uwa.edu.au</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:matthew.navarro@research.uwa.edu.au">matthew.navarro@research.uwa.edu.au</a><br>
