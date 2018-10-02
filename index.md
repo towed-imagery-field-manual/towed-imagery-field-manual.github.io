@@ -4,7 +4,7 @@ permalink: /
 title: "UWA Marine Ecology Group<br>Fisheries Research<br> <br>"
 excerpt: ""
 image:
-  feature: 20110808_077.jpg
+  feature: Reef3.jpg
 ---
 <div class="tiles">
 <div class="tile">
