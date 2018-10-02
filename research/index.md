@@ -2,7 +2,7 @@
 layout: home
 permalink: research
 title: "Research Projects<br> <br>"
-excerpt: "        "
+excerpt: " <br> <br>"
 image:
   feature: BRUV_Steve_2_cropped
 ---
