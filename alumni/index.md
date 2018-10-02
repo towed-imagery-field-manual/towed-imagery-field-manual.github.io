@@ -4,7 +4,7 @@ permalink: alumni
 title: "Alumni"
 excerpt: "Past members of the Marine Ecology Group"
 image:
-  feature: 20090706_1734.jpg
+  feature: 20151115_046.jpg
 ---
 
 ### PhD Completions
