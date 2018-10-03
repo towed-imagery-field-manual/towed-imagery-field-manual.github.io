@@ -2,9 +2,12 @@
 
 - title: Facebook
   url: https://www.facebook.com/marineecologygroupUWA/
+  icon: facebook-brands.svg
 
 - title: Instagram
   url: https://www.instagram.com/meg_fish_lab/
+  icon: instagram-brands.svg
   
 - title: Github
   url: https://github.com/UWAMEGFisheries
+  icon: github-brands.svg
