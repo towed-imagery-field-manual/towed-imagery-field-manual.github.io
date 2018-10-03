@@ -1,7 +1,8 @@
 <header id="masthead">
   <div class="inner-wrap">
     <a href="{{ site.url }}" class="site-title">
-      <img src='/images/apple-touch-icon-precomposed.png' width="20px" height="20px"></img></a><span><a href="{{ site.url }}" class="site-title">{{ site.title }} </a></span>
+      <img src='/images/apple-touch-icon-precomposed.png' width="80px" height="80px"></img>   <span>{{ site.title | escape }}</span>
+          </a>
     <nav role="navigation" class="menu top-menu">
         {% include navigation.html %}
     </nav>
