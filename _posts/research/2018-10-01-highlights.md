@@ -6,8 +6,8 @@ excerpt: "Videos showing highlights from stereo-BRUV deployments in commonwealth
 tags: [research]
 image:
   feature: 
-  teaser: square-decomissioning.png
-  thumb: square-decomissioning.png
+  teaser: square-highlights.png
+  thumb: square-highlights.png
 ---
 Below is a playlist of videos showing highlights from stereo-BRUV deployments in commonwealth and state marine parks around Western Australia.
 
