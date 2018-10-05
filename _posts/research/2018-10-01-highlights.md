@@ -31,3 +31,8 @@ image:
 
 ## Shark Bay
 {% include video id="K3iuD4OuwSw" provider="youtube" %}
+
+{% include video id="F34HDnDa7fQ?list=PLE9oZrYY8obUQfGwHtHNlxGnWqMoxiCa6" provider="youtube" %}
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F34HDnDa7fQ?list=PLE9oZrYY8obUQfGwHtHNlxGnWqMoxiCa6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
