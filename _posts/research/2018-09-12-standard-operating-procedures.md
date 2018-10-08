@@ -14,3 +14,5 @@ Through the National Environmental Science Program, we have lead the development
 
 <a href="/files/FieldManuals_NESPMarineHub_Chapter5_BRUV_v1.pdf" download> download
 </a>
+
+<button name="button" onclick="/files/FieldManuals_NESPMarineHub_Chapter5_BRUV_v1.pdf" download>Download SOP</button>
