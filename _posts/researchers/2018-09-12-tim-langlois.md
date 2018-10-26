@@ -17,7 +17,7 @@ I am a marine ecologist focused on understanding the optimal way that both comme
 
 My research is multidisciplinary across socio-economics, oceanography and statistical theory.
 
-See our [Research](https://uwamegfisheries.github.io/research/ "Research") page  and my [UWA Research Profile](https://research-repository.uwa.edu.au/en/persons/tim-langlois "UWA Research Profile") for more details.
+See our [Research](https://uwamegfisheries.github.io/research "Research") page  and my [UWA Research Profile](https://research-repository.uwa.edu.au/en/persons/tim-langlois "UWA Research Profile") for more details.
 
 
 ## Teaching
