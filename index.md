@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "UWA Marine Ecology Group
+title: "Marine sampling field manual for benthic stereo BRUVS (Baited Remote Underwater Videos)
 Fisheries Research"
 excerpt: " <br> <br>"
 image:
