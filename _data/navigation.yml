@@ -1,39 +1,39 @@
 # Site navigation links
 
 - title: "Platform description"
-  url: platform-description
+  url: /platform-description
   excerpt: "Comparison to other sampling methods, advantages, limitations and defintions"
   image: 5x8_BRUV.jpg
 - title: "Scope"
-  url: scope
+  url: /scope
   excerpt: "add later"
   image: 5x8_Moorea.jpg
 - title: "Stereo-BRUVs in Marine Monitoring"
-  url: stereo-bruvs-in-marine-monitoring
+  url: /stereo-bruvs-in-marine-monitoring
   excerpt: "add later"
   image: 5x8_Jon.png
 - title: "Equipment"
-  url: equipment
+  url: /equipment
   excerpt: "Equipment"
   image: 5x8_Julia.png
 - title: "Pre-survey planning"
-  url: pre-survey-planning
+  url: /pre-survey-planning
   excerpt: "Calibrating and pre-survey checklist"
   image: 5x8_Todd.jpg
 - title: "Field Procedures"
-  url: field-procedures
+  url: /field-procedures
   excerpt: "Arrival on site, deployment, retrieval, retrieval of snagged or lost BRUV and fieldwork data management"
   image: 5x8_Todd.jpg
 - title: "Post-survey Procedures"
-  url: post-survey-procedures
+  url: /post-survey-procedures
   excerpt: "Data management, processing video footage, quality control, data curation and data release"
   image: 5x8_Moorea.jpg
 - title: "Field Manual Maintenance"
-  url: field-manual-maintenance
+  url: /field-manual-maintenance
   excerpt: "add later"
   image: 5x8_Todd.jpg
 - title: "References"
-  url: references
+  url: /references
   excerpt: "Literature cited"
   image: 5x8_BRUV.jpg
 #- title: "Contact"
