@@ -1,12 +1,11 @@
+---
+layout: home
 permalink: /field-manual-maintenance
-
 title: "Field manual maintenance"
-
-excerpt: " <br> <br>"
-
+excerpt: ""
 image:
-
-  feature: 
+  feature: 5x8_BRUV.jpg
+---
 
 In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual will be updated in 2018 as Version 2. Updates will reflect user feedback and new developments (e.g. data discoverability and accessibility). Version 2 will also detail subsequent version control and maintenance.
 
