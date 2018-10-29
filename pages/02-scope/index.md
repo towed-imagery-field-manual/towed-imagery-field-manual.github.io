@@ -1,7 +1,7 @@
 ---
 permalink: /scope
 title: "Scope"
-excerpt: " <br> <br>"
+excerpt: ""
 image:
   feature: 5x8_BRUV.jpg
 layout: home
