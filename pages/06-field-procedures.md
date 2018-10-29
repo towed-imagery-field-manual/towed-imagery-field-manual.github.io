@@ -4,7 +4,7 @@ permalink: /field-procedures
 title: "Field procedures"
 excerpt: ""
 image:
-  feature: 06_banner.jpg
+  feature: /banners/06_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
