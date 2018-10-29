@@ -1,12 +1,11 @@
+---
+layout: home
 permalink: /field-procedures
-
 title: "Field procedures"
-
-excerpt: " <br> <br>"
-
+excerpt: ""
 image:
-
   feature: 
+---
 
 ### **Arrival on site**
 
