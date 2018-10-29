@@ -4,7 +4,7 @@ permalink: /equipment
 title: "Equipment"
 excerpt: ""
 image:
-  feature: 5x8_BRUV.jpg
+  feature: 04_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
