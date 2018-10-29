@@ -8,7 +8,7 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
-### **Arrival on site**
+## **Arrival on site**
 
 1. Unpack and set up stereo-BRUV units. Check for any breakages that may have occurred during transportations.
 
@@ -24,7 +24,7 @@ image:
 
 7.  Discuss deployment plan and safety with the team and ensure the skipper has the coordinates for all sites.
 
-### **Deployment**
+## **Deployment**
 
 1. Fill bait bags with ~1 kg of crushed or chopped bait.
 
@@ -62,7 +62,7 @@ To ensure it the BRUV lands upright in shallow water deployments (i.e. <40 m), t
 
 16. Once all stereo-BRUVs are deployed it is important to move away from where stereo-BRUVs are set to avoid impacts of vessel noise on fish assemblages.
 
-### **Retrieval**
+## **Retrieval**
 
 1. It is currently recommended that stereo-BRUV deployments are made for a minimum of 60 minutes to allow for comparisons with other studies. Therefore, the first stereo-BRUV can be retrieved after a minimum of 60 minutes from deployment.
 
@@ -92,7 +92,7 @@ To ensure it the BRUV lands upright in shallow water deployments (i.e. <40 m), t
 
 14. Either setup the stereo-BRUV for redeployment or secure on deck.
 
-### **Retrieval of snagged or lost BRUV**
+## **Retrieval of snagged or lost BRUV**
 
 In the event that a BRUV becomes snagged on the bottom the following procedure should be followed:
 
@@ -118,7 +118,7 @@ In the event that a stereo-BRUV is lost (rope cut or the current drags the camer
 
 6. Notify Parks Australia of lost equipment if operating in an AMP.
 
-### **Fieldwork data management**
+## **Fieldwork data management**
 
 Data management and quality control is crucial for monitoring and comparisons between studies within AMPs. Following simple steps and using easily understandable and transferable metadata (Table 10) will enable simple harmonisation between studies.
 
