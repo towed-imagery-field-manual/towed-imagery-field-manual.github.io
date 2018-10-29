@@ -8,13 +8,13 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-### **Data management**
+## **Data management**
 
 Large amounts of data are created from BRUVS with large video files, field data sheets, and software output. It is therefore important to consistently label folders and files to easily locate data and to simplify analysis. We also recommend documenting the file naming and folder structure in a post-survey report (Appendix C).
 
-### **Processing video footage**
+## **Processing video footage**
 
-#### **Fish annotations**
+### **Fish annotations**
 
 It was recently recognised by the national BRUVs steering group that, where possible, species composition, abundance and length data for all species should be recorded. It is recommended that every fish within a MaxN frame should be measured. However, fish that occur in large schools, and are of similar size, can be attributed to binned length measurement using the Number field associated with each length in EventMeasure-Stereo (see below). It is important to document the range from camera as this is likely to change between regions/ecosystems. This information is included in the standard outputs of EventMeasure-Stereo and is imported by default into GlobalArchive (see Section 5.7.4). Fish that occur in large schools can be attributed to binned length measurement using the Number field associated with each length in EventMeasure-Stereo.
 
@@ -30,11 +30,11 @@ Point information is typically used to calculate MaxN values, while length and 3
 
 Type of fish length (e.g fork length or total length for fish and disc length for rays) should be clearly indicated as part of the adequate annotation information for each Campaign.
 
-#### **Habitat classification from field of view**
+### **Habitat classification from field of view**
 
 Scoring of habitat information from the field of view is a relatively quick process and can provide extra information about habitat type. Classification of benthic composition and relief should be recorded from still image grabs for each deployment (e.g percent cover of benthos types) (Recommended). Collecting this information as continuous variables will enable regression approaches to be used to investigate the influence of habitat within the field of view on the fish assemblage.  To enable comparisons between studies it is important that researchers use comparable classification schemes. Recent studies (McLean et al. 2016, Collins et al. 2017) have adopted the CATAMI classification scheme (Althaus et al. 2013) in a systemised approach to scoring habitat composition and relief from forward facing imagery using TransectMeasure from SeaGIS ([https://www.seagis.com.au](https://www.seagis.com.au/)). This approach and standardised annotation schema have been documented in an open-access[ GitHub repository](https://github.com/TimLanglois/Habitat-annotation-of-forward-facing-benthic-imagery) (Langlois 2017).
 
-### **Quality control and data curation**
+## **Quality control and data curation**
 
 Quality control and data curation are vital, but are potentially time consuming. These time considerations (and associated costs) should be considered during the survey planning stages.
 
@@ -114,7 +114,7 @@ Table 5.1 Key contacts in national BRUV steering group, as of Jan 2018.
 
  
 
-### **Data release**
+## **Data release**
 
 GlobalArchive (www.globalarchive.org) is a centralised repository for stereo- and single-camera fish image annotation data, in particular from Baited Remote Underwater stereo-Video (stereo-BRUVs) and Diver Operated stereo-Video (stereo-DOVs). A user manual for GlobalArchive is available in an open-access[ GitHub repository](https://github.com/TimLanglois/GlobalArchive). Metadata should be made publicly available via[ GlobalArchive](http://globalarchive.org/) as soon as possible after survey completion and data QA/QC and validation. This should include positional data, as well as the purpose of the sampling campaign, the survey design, all sampling locations, equipment specifications, and any challenges or limitations encountered. Annotations can also be uploaded once complete. Spatial metadata from GlobalArchive data will in the future be harvested by the Australian Ocean Data Network, and the metadata will accordingly be available on their national portal. Until this is done, metadata should be published on both GlobalArchive and AODN to ensure data discoverability *[Recommended]*.
 
