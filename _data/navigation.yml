@@ -6,11 +6,11 @@
   image: /5x8/00_5x8.jpg
 - title: "Scope"
   url: /scope
-  excerpt: "add later"
+  excerpt: "Scope for the benthic stereo-BRUVs field manual"
   image: /5x8/01_5x8.jpg
-- title: "Stereo-BRUVs in Marine Monitoring"
+- title: "Stereo-BRUVs in marine monitoring"
   url: /stereo-bruvs-in-marine-monitoring
-  excerpt: "add later"
+  excerpt: "Uses and history of stereo-BRUVs"
   image: /5x8/02_5x8.jpg
 - title: "Equipment"
   url: /equipment
@@ -20,17 +20,17 @@
   url: /pre-survey-planning
   excerpt: "Calibrating and pre-survey checklist"
   image: /5x8/04_5x8.jpg
-- title: "Field Procedures"
+- title: "Field procedures"
   url: /field-procedures
   excerpt: "Arrival on site, deployment, retrieval, retrieval of snagged or lost BRUV and fieldwork data management"
   image: /5x8/05_5x8.jpg
-- title: "Post-survey Procedures"
+- title: "Post-survey procedures"
   url: /post-survey-procedures
   excerpt: "Data management, processing video footage, quality control, data curation and data release"
   image: /5x8/06_5x8.jpg
-- title: "Field Manual Maintenance"
+- title: "Field manual maintenance"
   url: /field-manual-maintenance
-  excerpt: "add later"
+  excerpt: "Version control and an example metadata table"
   image: /5x8/07_5x8.jpg
 - title: "References"
   url: /references
