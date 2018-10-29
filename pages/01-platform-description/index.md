@@ -5,6 +5,7 @@ title: "Platform description"
 excerpt: ""
 image:
   feature: 5x8_BRUV.jpg
+toc-left: true
 ---
 
 Stereo-baited remote underwater video (stereo-BRUV) systems consist of two video cameras inside waterproof housings, attached to a base-bar and encased within a frame with some form of baited container in front of the cameras (Figure 5.1, Figure 5.2; Cappo et al. 2007). Benthic stereo-BRUVs are lowered to the seafloor and are left recording for a set duration. The video footage can then be used to assess the recorded fish assemblages and associated habitats. Stereo-BRUVs are becoming widely adopted as a non-extractive technique for sampling the relative abundance and size structure of fish assemblages (Cappo et al. 2004, 2007, Watson et al. 2009, Langlois et al. 2010, 2012, Hill et al. 2014, Whitmarsh et al. 2017).
