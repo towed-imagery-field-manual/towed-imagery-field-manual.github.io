@@ -1,5 +1,5 @@
 # Footer navigation links
 
-- title: 
-  url: 
-  icon: 
+- title: "Download pdf version of manual"
+  url: https://github.com/Marine-sampling-field-manual/Marine-sampling-field-manual.github.io/blob/master/files/FieldManuals_NESPMarineHub_Chapter5_BRUV_v1.pdf
+  icon: download-to-storage-drive
