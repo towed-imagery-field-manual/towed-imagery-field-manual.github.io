@@ -57,10 +57,10 @@ Importantly, for sampling in deeper water habitats, the depth limitation of usin
 
 * Project is a unique identifier and the name should be carefully chosen (e.g. "MarineParkMonitoring" is not a good Project name but “Houtman Abrolhos Reef Observation Areas long-term monitoring” is a great Project name).
 
-![image alt text](/images/image_5.1.png)
+![image alt text](/images/figures/image_5.1.png)
 
 Figure 5.1 Left A: typical stereo baited remote underwater video (stereo-BRUV) and Left B: schematic of typical deployment setup of a stereo-BRUV unit sitting upright on the substrata with a rope leading to two buoys on the surface (Source: T. Simmonds/AIMS). Right: A photograph of a typical stereo-BRUV with the dimensions of the frame.
 
-![image alt text](/images/image_5.2.png)
+![image alt text](/images/figures/image_5.2.png)
 
 Figure 5.2 a) Deploying a stereo-BRUV from side of vessel. Note that this is a heavy-weight stereo-BRUV setup (Photo: C. Wellingtion/DPIRD). b) Deploying a stereo-BRUV through trawl door on a large vessel. c) Retrieving a standard stereo-BRUV. d) Retrieving a heavy-weight stereo-BRUV off large vessel.
