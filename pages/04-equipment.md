@@ -6,6 +6,7 @@ excerpt: ""
 image:
   feature: 5x8_BRUV.jpg
 ---
+{% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 Equipment must be appropriately set up to ensure as much consistency as possible among surveys and facilitate gear replacement if necessary. The key components for a benthic stereo-BRUV include the following:
 
