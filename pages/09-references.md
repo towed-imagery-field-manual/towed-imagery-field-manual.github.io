@@ -4,7 +4,7 @@ permalink: /references
 title: "References"
 excerpt: ""
 image:
-  feature: 5x8_BRUV.jpg 
+  feature: 09_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
