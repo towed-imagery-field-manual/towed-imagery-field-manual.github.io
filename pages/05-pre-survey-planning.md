@@ -8,6 +8,8 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
+## Pre-survey planning
+
 Confirm sampling design is statistically sound and feasible with existing resources. Sampling design is crucial to ensuring that there is adequate replication and spatial independence to ensure a statistically sound study. Therefore, it is important that a statistician is consulted prior to beginning any sampling. Chapter 2 of this field manual package provides details of sampling design considerations, as well as example code and data for implementing a spatially-balanced design, as outlined in Foster et al. (2017). Specific sampling considerations pertaining to stereo-BRUVs include:
 
 * Concurrent stereo-BRUVs should be separated by a minimum of 200-500 m to avoid bait plume overlap and animals moving between cameras.
@@ -46,7 +48,7 @@ Check spare parts kit, make sure tools are oiled and in working order. Spare par
 
 Sampling gear specifications should always be fully documented to achieve maximum transparency and comparability. This includes documenting the camera model, camera height above seafloor, camera separation, camera angle, camera field of view, underwater light lumens and colour, bait arm length and bait holder type.
 
-### **Calibrating stereo-BRUVS**
+## **Calibrating stereo-BRUVS**
 
 Stereo-BRUVS require regular calibration to ensure accurate measurements. The calibration process takes into account the base separation, camera angle and lens distortion all of which are unique to each camera, hosing and mount. Hence, each BRUV must be calibrated separately. Stereo-BRUVs should be calibrated using a 3D cube following recommendation by[ (Boutros et al. 2015)](https://paperpile.com/c/cxZoCG/Pzb9)
 
@@ -56,7 +58,7 @@ SeaGIS ([https://www.seagis.com.au](https://www.seagis.com.au/)) have long been 
 
  
 
-### **Pre-survey checklist**
+## **Pre-survey checklist**
 
  
 
