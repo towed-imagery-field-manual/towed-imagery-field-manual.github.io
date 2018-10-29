@@ -1,13 +1,11 @@
+---
+layout: home
 permalink: /post-survey-procedures
-
 title: "Post-survey procedures"
-
-excerpt: " <br> <br>"
-
+excerpt: ""
 image:
-
   feature: 
-
+---
 ### **Data management**
 
 Large amounts of data are created from BRUVS with large video files, field data sheets, and software output. It is therefore important to consistently label folders and files to easily locate data and to simplify analysis. We also recommend documenting the file naming and folder structure in a post-survey report (Appendix C).
