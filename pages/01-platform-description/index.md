@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 permalink: /platform-description
 title: "Platform description"
 excerpt: ""
