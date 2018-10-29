@@ -1,12 +1,11 @@
+---
+layout: home
 permalink: /stereo-bruvs-in-marine-monitoring
-
 title: "Stereo-BRUVs in marine monitoring"
-
-excerpt: " <br> <br>"
-
+excerpt: ""
 image:
-
-  feature: 
+  feature: 5x8_BRUV.jpg
+---
 
 A range of tethered and remote video methods, with roped and unroped designs, have historically been used to sample fish assemblages (see Mallet & Pelletier 2014). The use of BRUVs in scientific research has greatly increased over the past decade (Figure 5.3; Whitmarsh et al. 2017). This is in part due to the cost-efficiency and statistical power typically achieved for a wide range of trophic fish groups (Langlois et al. 2010) which has been recognised as an important metric for the investigation of ecosystem processes, the effects of fishing, and comparisons with fisheries-dependent data sets (Rochet & Trenkel 2003, Langlois et al. 2012). In Australia, benthic stereo-BRUVs have been used to successfully monitor spatial and temporal changes in benthic fish communities and their habitat structure (Figure 5.4; Cappo et al. 2004, Langlois et al. 2006, 2010, Harvey et al. 2013, Hill et al. 2014, Whitmarsh et al. 2017). There has been a steady increase in the use of stereo video over mono video systems, as equipment costs have fallen and the utility of length information for ecosystem studies has become apparent (Langlois et al. 2015). Stereo-BRUVs provide a non-extractive method for quantitatively assessing fish assemblages without the need for divers with the added benefit of having a permanent record if data are lost or identifications need to be checked. Many studies have compared the use of BRUVs with other ‘traditional’ methods such as diver transects, diver operated video (DOV), towed video or netting (Cappo et al. 2004, Watson et al. 2009, Colton & Swearer 2010, Langlois et al. 2010, Lowry et al. 2012, Goetze et al. 2015, Logan et al. 2017). In general, stereo-BRUVs recorded comparable species richness, greater abundance of targeted species with comparable size composition to fisheries dependent methos and provide the most cost effective method for sampling fish assemblages across a broad depth range (Langlois et al. 2010).
 
