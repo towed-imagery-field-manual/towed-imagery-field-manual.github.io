@@ -4,7 +4,7 @@ permalink: /pre-survey-planning
 title: "Pre-survey planning"
 excerpt: ""
 image:
-  feature: 5x8_BRUV.jpg
+  feature: 05_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
