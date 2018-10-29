@@ -2,7 +2,7 @@
 layout: archive
 permalink: /platform-description
 title: "Platform description"
-excerpt: " <br> <br>"
+excerpt: ""
 image:
   feature: 5x8_BRUV.jpg
 ---
