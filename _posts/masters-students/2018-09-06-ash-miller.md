@@ -10,6 +10,8 @@ image:
   teaser: square-ashlyn-miller-profile.png
   thumb: square-ashlyn-miller-profile.png
 ---
+{% include toc.html %}
+
 ## Improving estimates of natural mortality and growth rate of juvenile western rock lobsters *(Panulirus cygnus)* in Dongara, Western Australia.
 <img src='/images/square-ashlyn-miller-profile.png' align='right' width="350" hspace="20" vspace="10">
 
