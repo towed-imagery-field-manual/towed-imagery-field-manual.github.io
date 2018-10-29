@@ -4,7 +4,7 @@ permalink: /post-survey-procedures
 title: "Post-survey procedures"
 excerpt: ""
 image:
-  feature: 
+  feature: 5x8_BRUV.jpg
 ---
 ### **Data management**
 
