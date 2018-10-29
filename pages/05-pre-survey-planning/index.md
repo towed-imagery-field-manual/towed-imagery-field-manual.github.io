@@ -1,12 +1,11 @@
+---
+layout: home
 permalink: /pre-survey-planning
-
 title: "Pre-survey planning"
-
-excerpt: " <br> <br>"
-
+excerpt: ""
 image:
-
-  feature: 
+  feature: 5x8_BRUV.jpg
+---
 
 Confirm sampling design is statistically sound and feasible with existing resources. Sampling design is crucial to ensuring that there is adequate replication and spatial independence to ensure a statistically sound study. Therefore, it is important that a statistician is consulted prior to beginning any sampling. Chapter 2 of this field manual package provides details of sampling design considerations, as well as example code and data for implementing a spatially-balanced design, as outlined in Foster et al. (2017). Specific sampling considerations pertaining to stereo-BRUVs include:
 
