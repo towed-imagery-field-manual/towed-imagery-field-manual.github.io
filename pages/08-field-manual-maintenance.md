@@ -6,6 +6,7 @@ excerpt: ""
 image:
   feature: 5x8_BRUV.jpg
 ---
+{% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual will be updated in 2018 as Version 2. Updates will reflect user feedback and new developments (e.g. data discoverability and accessibility). Version 2 will also detail subsequent version control and maintenance.
 
