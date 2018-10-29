@@ -6,6 +6,8 @@ excerpt: ""
 image:
   feature: 5x8_BRUV.jpg
 ---
+{% include toc.html class="toc-left" h_min=2 h_max=2 %}
+
 ### **Data management**
 
 Large amounts of data are created from BRUVS with large video files, field data sheets, and software output. It is therefore important to consistently label folders and files to easily locate data and to simplify analysis. We also recommend documenting the file naming and folder structure in a post-survey report (Appendix C).
