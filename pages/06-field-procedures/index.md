@@ -4,7 +4,7 @@ permalink: /field-procedures
 title: "Field procedures"
 excerpt: ""
 image:
-  feature: 
+  feature: 5x8_BRUV.jpg
 ---
 
 ### **Arrival on site**
