@@ -1,12 +1,9 @@
 ---
+layout: archive
 permalink: /platform-description
-
 title: "Platform description"
-
 excerpt: " <br> <br>"
-
 image:
-
   feature: 
 ---
 
