@@ -60,5 +60,3 @@ Figure 5.1 Left A: typical stereo baited remote underwater video (stereo-BRUV) a
 ![image alt text](/images/image_5.2.png)
 
 Figure 5.2 a) Deploying a stereo-BRUV from side of vessel. Note that this is a heavy-weight stereo-BRUV setup (Photo: C. Wellingtion/DPIRD). b) Deploying a stereo-BRUV through trawl door on a large vessel. c) Retrieving a standard stereo-BRUV. d) Retrieving a heavy-weight stereo-BRUV off large vessel.
-
-
