@@ -1,13 +1,11 @@
+---
+layout: home
 permalink: /references
-
 title: "References"
-
-excerpt: " <br> <br>"
-
+excerpt: ""
 image:
-
-  feature: 
-
+  feature: 5x8_BRUV.jpg 
+---
 Althaus F, Hill N, Ferrari R, Edwards L, Przeslawski R, Schönberg CH,  Stuart-Smith R,  Barrett N, Edgar G, and Colquhoun J. 2015. A standardised vocabulary for identifying benthic biota and substrata from underwater imagery: the CATAMI classification scheme. PLoS ONE 10:e0141039.
 
 Boutros N, Shortis MR, Harvey ES (2015) A comparison of calibration methods and system configurations of underwater stereo-video systems for applications in marine ecology. Limnol Oceanogr Methods 13:224–236
