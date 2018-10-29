@@ -3,7 +3,7 @@ permalink: /scope
 title: "Scope"
 excerpt: ""
 image:
-  feature: 5x8_BRUV.jpg
+  feature: 02_banner.jpg
 layout: home
 
 ---
