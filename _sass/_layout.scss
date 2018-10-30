@@ -23,7 +23,7 @@
 	@include media($large) {
 		@include span-columns(11);
 	}
-	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+	padding: (.1 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
