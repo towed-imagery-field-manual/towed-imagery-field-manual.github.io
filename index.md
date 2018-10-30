@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Marine sampling field manual for benthic stereo BRUVS (Baited Remote Underwater Videos)"
-excerpt: "<br> <br> "
+title: "Benthic stereo BRUVs (Baited Remote Underwater Videos)"
+excerpt: ""
 image:
   feature: /banners/00_banner1.jpg
 page.button1.external_url:
