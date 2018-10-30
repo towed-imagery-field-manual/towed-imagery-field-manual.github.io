@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Benthic stereo BRUVs (Baited Remote Underwater Videos)"
-excerpt: ""
+title: "Benthic stereo BRUVs"
+excerpt: "(Baited Remote Underwater Videos)"
 image:
   feature: /banners/00_banner1.jpg
 page.button1.external_url:
