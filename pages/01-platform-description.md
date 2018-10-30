@@ -8,7 +8,7 @@ image:
 toc: true
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
-<p style="text-align:justify">
+<div style="text-align: justify"> 
 
 # Platform description
 
@@ -65,4 +65,5 @@ Figure 5.1 Left A: typical stereo baited remote underwater video (stereo-BRUV) a
 ![image alt text](/images/figures/image_5.2.png)
 
 Figure 5.2 a) Deploying a stereo-BRUV from side of vessel. Note that this is a heavy-weight stereo-BRUV setup (Photo: C. Wellingtion/DPIRD). b) Deploying a stereo-BRUV through trawl door on a large vessel. c) Retrieving a standard stereo-BRUV. d) Retrieving a heavy-weight stereo-BRUV off large vessel.
-</p>
+
+</div>
