@@ -21,7 +21,7 @@
 .site-title {
 	@include row;
 	@include media($large) {
-		@include span-columns(4);
+		@include span-columns(10);
 	}
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
@@ -30,7 +30,7 @@
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
-	line-height: .75 * $masthead-height; // half the height to center vertically
+	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
 }
 
