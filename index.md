@@ -4,7 +4,7 @@ permalink: /
 title: "Marine sampling field manual for benthic stereo BRUVS (Baited Remote Underwater Videos)"
 excerpt: " "
 image:
-  feature: /banners/00_banner.jpg
+  feature: /banners/00_banner1.jpg
 ---
 
 Tim Langlois<sup>1</sup>, Joel Williams<sup>2</sup>, Jacquomo Monk<sup>3</sup>, Phil Bouchet, Leanne Currey, Jordan Goetze, David Harasti, Charlie Huveneers, Daniel Ierodiaconou, Hamish Malcolm, Sasha Whitmarsh
