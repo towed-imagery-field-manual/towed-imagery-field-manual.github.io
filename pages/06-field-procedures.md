@@ -24,6 +24,8 @@ image:
 
 7.  Discuss deployment plan and safety with the team and ensure the skipper has the coordinates for all sites.
 
+![image alt text](/images/5x8/01_5x8.jpg)
+
 ## **Deployment**
 
 1. Fill bait bags with ~1 kg of crushed or chopped bait.
@@ -62,6 +64,8 @@ To ensure it the BRUV lands upright in shallow water deployments (i.e. <40 m), t
 
 16. Once all stereo-BRUVs are deployed it is important to move away from where stereo-BRUVs are set to avoid impacts of vessel noise on fish assemblages.
 
+![image alt text](/images/5x8/02_5x8.jpg)
+
 ## **Retrieval**
 
 1. It is currently recommended that stereo-BRUV deployments are made for a minimum of 60 minutes to allow for comparisons with other studies. Therefore, the first stereo-BRUV can be retrieved after a minimum of 60 minutes from deployment.
@@ -91,6 +95,8 @@ To ensure it the BRUV lands upright in shallow water deployments (i.e. <40 m), t
 13. If required charge or change camera batteries.
 
 14. Either setup the stereo-BRUV for redeployment or secure on deck.
+
+![image alt text](/images/5x8/03_5x8.jpg)
 
 ## **Retrieval of snagged or lost BRUV**
 
