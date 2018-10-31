@@ -13,6 +13,10 @@ toc: true
 
 Stereo-baited remote underwater video (stereo-BRUV) systems consist of two video cameras inside waterproof housings, attached to a base-bar and encased within a frame with some form of baited container in front of the cameras (Figure 5.1, Figure 5.2; Cappo et al. 2007). Benthic stereo-BRUVs are lowered to the seafloor and are left recording for a set duration. The video footage can then be used to assess the recorded fish assemblages and associated habitats. Stereo-BRUVs are becoming widely adopted as a non-extractive technique for sampling the relative abundance and size structure of fish assemblages (Cappo et al. 2004, 2007, Watson et al. 2009, Langlois et al. 2010, 2012, Hill et al. 2014, Whitmarsh et al. 2017).
 
+![image alt text](/images/figures/image_5.1.png)
+
+Figure 5.1 Left A: typical stereo baited remote underwater video (stereo-BRUV) and Left B: schematic of typical deployment setup of a stereo-BRUV unit sitting upright on the substrata with a rope leading to two buoys on the surface (Source: T. Simmonds/AIMS). Right: A photograph of a typical stereo-BRUV with the dimensions of the frame.
+
 # Comparison of stereo-BRUV with other sampling methods
 
 Importantly, baited video and stereo-BRUV have been found to be comparable to other commonly used ecological and fisheries dependent sampling methods. Willis et al. (2000) demonstrated that spatial variation in abundance estimates from baited video were comparable to variation in fisheries catch rates, and less confounded by behavioural biases potentially experienced by diver based visual methods (i.e. UVC). Subsequent studies have demonstrated that stereo-BRUVs overcome certain behavioural biases associated with Underwater Visual Census (UVC) techniques (Colton & Swearer 2010, Lowry et al. 2012), however UVC will typically record greater species diversity whereas baited video will record greater diversity and abundance of target species. Across latitudinal gradients, Langlois et al. (2010) demonstrated that measures of species richness/diversity obtained by baited video and diver based methods were comparable. Importantly for studies of the impacts of fishing pressure, biomass distribution and ecosystem dynamics, the size composition of targeted species sampled by stereo-BRUVs has been found to be comparable to line (Langlois et al. 2012) and trap (Langlois et al. 2015) fisheries.
@@ -30,6 +34,11 @@ Overestimates of abundance can occur through double counting fish. This occurs w
 In addition, the variation in the distance the bait plume travels, the responses of different fish species to the bait plume and the distances they will travel to get to the bait are unknown (Harvey et al. 2007). For these reasons, estimates of individual species abundance from BRUVs are currently limited to measures of relative abundance rather than density (Cappo et al. 2007). The use of MaxN also results in conservative estimates of the relative abundance and biomass of fish. Limitations have also been acknowledged for cryptobenthic and site-attached species that are often under-represented using video-based methods (Holmes et al. 2013). While BRUVs are considered unsuitable for estimating density, they are a powerful and cost-effective method for detecting spatial and temporal changes in the relative abundance and lengths of fish assemblages (Watson et al. 2009, Harvey et al. 2013, Hill et al. 2014, Malcolm et al. 2015).
 
 Importantly, for sampling in deeper water habitats, the depth limitation of using roped stereo-BRUVs will depend on local conditions and will typically vary with water current conditions (e.g. ~1500 m, Zintzen et al. 2012). Non-roped stereo-BRUV systems have been developed internationally (Merritt et al. 2011) and in Australia (Marouchos et al. 2011) but have not yet been widely applied. In areas with strong currents, even in depths of ~60 m, the water resistance can act on the rope catenary to pull BRUV systems over, and the potential for this increases with depth. An associated limitation can include the surface floats being pulled underneath the surface until the current slows. Options for remotely deployed deepwater BRUVs using a sequence of bait release and monitoring over a 24-hour period, before the BRUV is released to the surface are still in development mode but have been trialled in the Flinders AMP ([https://www.csiro.au/en/Research/OandA/Areas/Marine-technologies/Hi-tech-ocean-observing/DeepBRUVS](https://www.csiro.au/en/Research/OandA/Areas/Marine-technologies/Hi-tech-ocean-observing/DeepBRUVS)).
+
+
+![image alt text](/images/figures/image_5.2.png)
+
+Figure 5.2 a) Deploying a stereo-BRUV from side of vessel. Note that this is a heavy-weight stereo-BRUV setup (Photo: C. Wellingtion/DPIRD). b) Deploying a stereo-BRUV through trawl door on a large vessel. c) Retrieving a standard stereo-BRUV. d) Retrieving a heavy-weight stereo-BRUV off large vessel.
 
 # Definition of terms
 
@@ -57,10 +66,3 @@ Importantly, for sampling in deeper water habitats, the depth limitation of usin
 
 * Project is a unique identifier and the name should be carefully chosen (e.g. "MarineParkMonitoring" is not a good Project name but “Houtman Abrolhos Reef Observation Areas long-term monitoring” is a great Project name).
 
-![image alt text](/images/figures/image_5.1.png)
-
-Figure 5.1 Left A: typical stereo baited remote underwater video (stereo-BRUV) and Left B: schematic of typical deployment setup of a stereo-BRUV unit sitting upright on the substrata with a rope leading to two buoys on the surface (Source: T. Simmonds/AIMS). Right: A photograph of a typical stereo-BRUV with the dimensions of the frame.
-
-![image alt text](/images/figures/image_5.2.png)
-
-Figure 5.2 a) Deploying a stereo-BRUV from side of vessel. Note that this is a heavy-weight stereo-BRUV setup (Photo: C. Wellingtion/DPIRD). b) Deploying a stereo-BRUV through trawl door on a large vessel. c) Retrieving a standard stereo-BRUV. d) Retrieving a heavy-weight stereo-BRUV off large vessel.
