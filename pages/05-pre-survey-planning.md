@@ -38,13 +38,9 @@ Order sufficient quantities of bait well ahead of time. Due to differences in lo
 
 Decide on the preparation and presentation of bait and consumables. Most studies use crushed or chopped bait presented in either a mesh bag or perforated PVC tubes. Bait arms should be angled towards the seabed and ideally in contact with the seabed so that the bait bag is not flapping in the current and so potentially disrupting fishes' natural inclination to be attracted to the bait (Cappo. pers. comm.). Ensure there are plenty of spare bait arms and bait bags or tubes. Bait arms may need to be reinforced with fibreglass rods if available or doubling up of PVC tubes. Having a number of rolls of duct tape and bags of cables ties is strongly recommended for running repairs.
 
- 
-
 Check ropes, bridles, floats/buoys for damage and ensure ropes are of sufficient length for the water depth that you are operating in (1.5:1 rope length to depth ratio). Float and rope configuration can also impact on deployment success. It is recommended that local trap fishers (e.g. lobster fishers) should be consulted on appropriate rope and float arrangement (Figure 5.5). Highly quality pot rope is recommended (e.g. New Zealand or Australian made). Check that there are a sufficient number and size of marker buoys and that they are coloured to make them visible at sea. Buoys should be marked with ‘Research’ and have each permit number. Make up spare ropes and floats in case gear is damaged or lost or damaged. Ensure sufficient weights are available for use at greater depths and in high currents. Typically double the weight is required at the front of the stereo-BRUV systems when deploying in deep water, but this arrangement will depend on local conditions and the frame design.
 
- 
-
-![image alt text](image_0.png)
+![image alt text](/images/figures/image_5.5.png)
 
 Figure 5.5 Example of top float (F) arrangement for using stereo-BRUVs.
 
