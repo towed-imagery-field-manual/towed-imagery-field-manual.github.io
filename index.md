@@ -18,3 +18,6 @@ Tim Langlois<sup>1</sup>, Joel Williams<sup>2</sup>, Jacquomo Monk<sup>3</sup>, 
 
 Chapter citation:
 Langlois T, Williams J, Monk J, Bouchet P, Currey L, Goetze J, Harasti D, Huveneers C, Ierodiaconou D, Malcolm H, Whitmarsh S. 2018. Marine sampling field manual for benthic stereo BRUVS (Baited Remote Underwater Videos). In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp. 82-104. 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn">Sign up to mailing list</a>
+
