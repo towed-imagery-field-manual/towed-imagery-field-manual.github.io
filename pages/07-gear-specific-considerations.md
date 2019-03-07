@@ -4,7 +4,7 @@ permalink: /gear-specific-considerations
 title: "Gear-Specific Considerations"
 excerpt: ""
 image:
-  feature: /banners/06_banner.jpg
+  feature: /banners/07_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 Some gear types need special consideration as they naturally force the survey designer into different modes of thinking and have limitations on the type of data collected. To our mind, the biggest distinction in sampling gears for marine biota, for design considerations at least, is whether the gear collects a single observation from each deployment (e.g. a grab) or whether it collects many (e.g. an AUV). There is some grey area here: we class BRUVs as point collection methods and we class trawls also as point source methods. BRUVs introduce uncertainty in the exact area sampled due to variation in bait plumes with different current conditions. Trawls integrate locations along a transect by means of combining the catch in a cod-end, but also introduce uncertainty in the exact area sampled due to the behaviour of the trawl (‘digging in’ or bouncing off the sea bed) and sometimes not knowing where the trawl has touched/left bottom or where the net is. These can be particular concerns in deeper water without a well-functioning positioning device (USBL).
