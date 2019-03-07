@@ -4,7 +4,7 @@ permalink: /uncertainty-precision-power
 title: "Uncertainty, Precision, and Power"
 excerpt: ""
 image:
-  feature: /banners/04_banner.jpg
+  feature: /banners/05_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 It is important to consider how to reduce the uncertainty (and increase precision) in statistical analyses of survey/monitoring data. Practically, there are two components to this: 1) increasing the information content in the dataset; and 2) reducing the non-biological noise in the collection process. The first component, increasing information content, is addressed by using an efficient survey/monitoring design, such as a spatially balanced design. More information implies that the signal in the data can be clarified with more ease. The second component (noise reduction) refers to that part of the variation in the data that is induced by (for example) performing assays slightly differently each time, or by sampling at different periods of the data (where fish may have different availability to being caught). This type of noise can be reduced by using measurement protocols that are designed to be repeatable so that two measurements on the same sample will generate identical or at least very similar observations. See the gear-specific chapters in this field manual package for detailed advice on reducing measurement noise. Additional sources of noise can be subtle and can encompass: taxonomic consistency, and; inclusion of non-target species or individuals of a wide variety of life-stages. The latter may occur from sampling pelagic species in transit to the targeted habitat.
