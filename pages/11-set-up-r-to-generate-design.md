@@ -16,6 +16,8 @@ This document was created using the R-package *knitr* (Xie, 2014). It is a wonde
 
  
 
+```
+
 ###########################################################################
 
 ####	Read in Data from spatial data (.asc here) and Organise        ####
@@ -90,6 +92,8 @@ image.plot( uniqueEast, uniqueNorth, DepthMat,
 
 	col=rev(tim.colors()))
 
+```
+
 ![image alt text](image_0.png)
 
 Figure 2.1: Map of Governor Island study region with depths. Note the non-regular shape and the non-uniformity of the regions depth profile.
@@ -99,6 +103,8 @@ Figure 2.1: Map of Governor Island study region with depths. Note the non-regula
 Generating a spatially balanced design within the reserve is quite straight-forward using *MBHdesign*. Here we do it for 30 sampling sites spread throughout the reserve (Figure 2.1). Note that designs will vary from one realisation to the next, unless the seed it fixed (like we did in the previous subsection). Try it a few times, if you like, and see what happens between the realisations. Note that *on average* (over all realisations) the spatially balanced designs will have good spatial coverage.
 
  
+
+```
 
 ###########################################################################
 
@@ -132,7 +138,7 @@ points( samp_spatialOnly[,c("Easting","Northing")], pch=20, cex=2)
 
 write.csv(samp_spatialOnly, file="spatialOnly.csv", row.names=FALSE)
 
- 
+ ```
 
 ![image alt text](image_1.png)
 
@@ -142,7 +148,7 @@ Figure 2.2: A uniform inclusion probability sample for Governor Island
 
 The equal inclusion probability design (Figure 2.2) assumes that all sites are equally advantageous to sample. Previously, we mentioned that this may not be an efficient approach to sampling. In particular, it can be advantageous to over-sample sites/regions that have greater variability. In the Governor Island reserve, this corresponds to the shallower depths as these typically are more heterogeneous and biodiverse on the east coast of Tasmania. We can design a survey with this in mind by increasing the probability that shallow sites will be sampled (i.e. by increasing their inclusion probabilities). This has the obvious effect of also decreasing the probability that deeper sites will be sampled (Figure 2.3). The code below shows how this can be done. It is a little more involved, but most of the complexity comes from detail. The approach is simple though: 1) find the empirical distribution of depths in the reserve; 2) define the inclusion probabilities based on this empirical distribution; and 3) sample according to those inclusion probabilities. We will sample a few more sites (n = 100), just to make the effect of the depth adjustment clear.
 
- 
+```
 
 ###########################################################################
 
@@ -226,6 +232,8 @@ points( samp[,c("Easting","Northing")], pch=20, cex=2)
 
 write.csv( design, file="design.csv", row.names=FALSE)
 
+```
+
 ![image alt text](image_2.png)
 
 Figure 2.3: (Left panel) The empirical distribution of the 4 different depth bins. (Middle panel) The spatial distribution of the depth bins. (Right panel) A non-uniform spatially balanced sample, with inclusion probabilities based on the distribution of depths throughout the region. Shallow sites have been over-represented in the sample.
@@ -238,7 +246,7 @@ Here, for edification purposes, we provide an illustration of how to design a sp
 
 In our example, we first generate legacy sites and then generate more sites around them. To provide a little extra spice to the design we try to mimic the learning process: the n = 6 legacy sites are chosen with uniform probabilities (as we would do when there is no information about the area) and then the n = 15 new sites are chosen with a depth gradient altering the inclusion probabilities (Figure 2.4). This example therefore incorporates elements of the previous two examples.
 
- 
+ ```
 
 ###########################################################################
 
@@ -346,7 +354,7 @@ legend( "bottomleft", c("Legacy Sites", "New Sites"), pch=c(17,20), pt.cex=2,
 
 	col=c('red','black'), bty='n')
 
- 
+ ```
 
 ![image alt text](image_3.png)
 
