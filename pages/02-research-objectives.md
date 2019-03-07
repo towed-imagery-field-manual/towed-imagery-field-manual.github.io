@@ -1,3 +1,12 @@
+---
+permalink: /research-objectives
+title: "Reasearch Objective(s)"
+excerpt: ""
+image:
+  feature: /banners/02_banner.jpg
+layout: home
+
+---
 The first, and most important factor in developing an appropriate statistical design, is knowing the objective(s) you’re asking (your scientific hypotheses). The objectives will have direct, and sometimes obvious, implications for design. As an example, if the objective is to estimate the effect of implementing a management zone (e.g. a no-take reserve), then samples will have to be taken from outside the reserve (a control) as well as within it. We think it useful to consider the following list of probing questions before starting the design process.
 
  
