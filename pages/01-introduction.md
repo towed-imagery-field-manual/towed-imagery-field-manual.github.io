@@ -7,8 +7,6 @@ image:
   feature: /banners/01_banner.jpg
 toc: true
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=2 %} 
-
 # Introduction
 A rigorous scientific process is essential to forming sound conclusions that can inform evidence-based decision-making. This process starts with defining a research question, assessing what level of information is needed and then critically assessing how that information should be obtained (see Table 2.1 and Hayes et al.,* *in revision). Evidence can be obtained from a variety of sources, ranging from expert opinion, through ad-hoc data collection, then well-designed observational surveys, and finally to randomised controlled experiments. Well-designed experiments/surveys that are targeted to the research question, however, are also generally more expensive than expert opinion, which is a source of information that may be adequate in some certain situations (see Leek and Peng, 2015). Table 2.1 provides a brief overview of the hierarchy of research questions and the types of data that are appropriate to answer them.
 
