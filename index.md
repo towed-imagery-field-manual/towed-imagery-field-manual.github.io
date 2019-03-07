@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Statustical Considerations for Monitoring and Sampling"
+title: "Statistical Considerations for Monitoring and Sampling"
 excerpt: ""
 image:
   feature: /banners/00_banner1.jpg
