@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: /efficient-designs
-title: "Stereo-BRUVs in marine monitoring"
+title: "Efficient Designs"
 excerpt: ""
 image:
-  feature: /banners/03_banner.jpg
+  feature: /banners/04_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 Simple randomisation – randomly scattering sampling locations through space – is not necessarily an efficient approach, and in many circumstances a large number of samples are necessary to obtain acceptably precise estimates of population parameters (e.g. Tillé and Wilhelm, 2017). This potential inefficiency is one of the reasons that haphazard sampling can initially although mistakenly appear quite attractive, however there are ways to address inefficiency, and to generate designs that require fewer samples and resources. Researchers have proposed statistically valid restrictions on the randomisation process, and research in environmental sciences has ultimately led to spatially balanced designs (Stevens and Olsen, 2004; Dobbie et al., 2008; Grafström et al., 2012; Grafström, 2012; Grafström and Tillé, 2013; Grafström, 2013; Robertson et al., 2013; Brown et al., 2015; Foster et al., 2017; Tillé and Wilhelm, 2017), with similar ideas known as ‘spatial coverage designs’ (Royle and Nychka, 1998; Brus et al., 1999, 2006; Minasny and McBratney, 2006; Walvoort et al., 2010) and ‘even sampling designs’ (Chen et al., 2012).
