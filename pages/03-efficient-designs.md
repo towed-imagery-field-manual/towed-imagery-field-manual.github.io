@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /Efficient Designs
+permalink: /efficient-designs
 title: "Stereo-BRUVs in marine monitoring"
 excerpt: ""
 image:
