@@ -9,15 +9,15 @@
   image: /5x8/01_5x8.jpg
 - title: "Research Objective(s)"
   url: https://survey-design-field-manual.github.io/research-objectives
-  excerpt: ""
+  excerpt: "Setting your research objectives"
   image: /5x8/02_5x8.jpg
 - title: "Random sampling"
   url: https://survey-design-field-manual.github.io/random-sampling
-  excerpt: ""
+  excerpt: "Making sure your research questions are answerable"
   image: /5x8/03_5x8.jpg
 - title: "Efficient Designs"
   url: https://survey-design-field-manual.github.io/efficient-designs
-  excerpt: "Software"
+  excerpt: "Spatialy balanced designs and software to help"
   image: /5x8/04_5x8.jpg
 - title: "Uncertainty, Precision, and Power"
   url: https://survey-design-field-manual.github.io/uncertainty-precision-power
@@ -25,19 +25,19 @@
   image: /5x8/05_5x8.jpg
 - title: "Spatio-Temporal Sampling"
   url: https://survey-design-field-manual.github.io/spatio-temporal-sampling
-  excerpt: ""
+  excerpt: "Sampling in space and time"
   image: /5x8/06_5x8.jpg
 - title: "Gear-Specific Considerations"
   url: https://survey-design-field-manual.github.io/gear-specific-considerations
-  excerpt: ""
+  excerpt: "What to consider when choosing your sampling method"
   image: /5x8/07_5x8.jpg
 - title: "Mapping as a Foundation"
   url: https://survey-design-field-manual.github.io/mapping-as-a-foundation
-  excerpt: ""
+  excerpt: "Seafloor data from multibeam sonar"
   image: /5x8/08_5x8.jpg
 - title: "Field Manual Maintenance"
   url: https://survey-design-field-manual.github.io/field-manual-maintenance
-  excerpt: ""
+  excerpt: "Updates and developments"
   image: /5x8/09_5x8.jpg
 - title: "Case Study: Surveying a Marine Park in Tasmania"
   url: https://survey-design-field-manual.github.io/case-study
