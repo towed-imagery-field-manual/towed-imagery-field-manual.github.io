@@ -1,5 +1,9 @@
 <footer role="contentinfo" id="site-footer">
   <center>
+    
+{% for link in site.data.footer %}
+    <a href="{{ link.url }}" class="btn" target="_blank"><i class="{{ link.icon }}"></i> {{ link.title }}</a>
+    {% endfor %}
 <a href="https://docs.google.com/forms/d/17k_359bd6xjtHAiWsCypZlYKrM1LY6NrBXDjVJDJ0BQ/edit" class="btn" target="_blank"><i class="fa fa-user-plus"></i> Sign up to Mailing List</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5QMFziNaiQj8Sc8HvWj-zPDcCeQjYN8PmM0xF2KEpNxXRow/viewform" class="btn" target="_blank"><i class="fa fa-comments"></i> Give Feedback</a> <a href="https://survey-design-field-manual.github.io/files/Chapter%202_Survey%20Design%20Field%20Manual.pdf" class="btn" target="_blank"><i class="fa fa-download"></i> Download Manual</a> </center>
 	<nav role="navigation" class="menu bottom-menu">
     	  <img src= "{{ site.url }}/images/NESP-footer.png" width="100%" height="30%">
