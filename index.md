@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Statistical Considerations for Monitoring and Sampling"
+title: "Towed Underwater Camera Systems"
 excerpt: ""
 image:
   feature: /banners/00_banner.jpg
@@ -10,9 +10,10 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Scott D. Foster](mailto:scott.foster@csiro.au), Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Rachel Przeslawski
+[Andrew Carroll](mailto:andrew.carroll@ga.gov.au), Franzis Althaus, Robin Beaman, Ariell Friedman, Daniel Ierodiaconou, Tim Ingleton, Alan Jordan, Michelle Linklater, Jacquomo Monk, Alix Post, Rachel Przeslawski, Jodie Smith, Marcus Stowar, Maggie Tran, Aaron Tyndall
 
-![image alt text](images/Surveydesign.jpg)
+![image alt text](images/Towedimagery.jpg)
+<i>Left image courtesy of the Marine National Facility. Right image courtesy of the Australian Institute of Marine Science</i>
 
 Chapter citation:
-Foster SD, Monk J, Lawrence E, Hayes KR, Hosack GR, Przeslawski R. 2018. Statistical considerations for monitoring and sampling. In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp 23-41. 
+Carroll A, Althaus F, Beaman R, Friedman A, Ierodiaconou D, Ingleton T, Jordan A, Linklater M, Monk J, Post A, Przeslawski R, Smith J, Stowar M, Tran M, Tyndall A. 2018. Marine sampling field manual for towed underwater camera systems. In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp. 131-152.
