@@ -12,7 +12,7 @@ page.button1.external_url:
 
 [Andrew Carroll](mailto:andrew.carroll@ga.gov.au), Franzis Althaus, Robin Beaman, Ariell Friedman, Daniel Ierodiaconou, Tim Ingleton, Alan Jordan, Michelle Linklater, Jacquomo Monk, Alix Post, Rachel Przeslawski, Jodie Smith, Marcus Stowar, Maggie Tran, Aaron Tyndall
 
-![image alt text](images/Towedimagery.jpg)
+![image alt text](images/front-page.jpg)
 <i>Left image courtesy of the Marine National Facility. Right image courtesy of the Australian Institute of Marine Science</i>
 
 Chapter citation:
