@@ -1,8 +1,4 @@
 # Site navigation links
-- title: "Towed Imagery field manual home"
-  url: https://towed-imagery-field-manual.github.io/
-  excerpt: "Authors, citation and give feedback"
-  image: /5x8/Home-blue_5x8.jpg
 - title: "Download field manual"
   url: https://towed-imagery-field-manual.github.io/files/Chapter%207_Towed%20Imagery%20Field%20Manual%20V2.pdf
   excerpt: "Download chapter as a PDF"
@@ -10,19 +6,19 @@
 - title: "Platform Description"
   url: https://towed-imagery-field-manual.github.io/platform-description
   excerpt: ""
-  image: /5x8/01_5x8.jpg
+  image: /5x8/vvv_teaser.jpg
 - title: "Scope"
   url: https://towed-imagery-field-manual.github.io/scope
   excerpt: "Scope for the towed imagery field manual"
-  image: /5x8/02_5x8.jpg
+  image: /5x8/xxx_teaser.jpg
 - title: "Towed Underwater Cameras in Marine Monitoring"
   url: https://towed-imagery-field-manual.github.io/towed-underwater-cameras-in-marine-monitoring
   excerpt: ""
-  image: /5x8/03_5x8.jpg
+  image: /5x8/yyy_teaser.jpg
 - title: "Pre-Survey Preparations"
   url: https://towed-imagery-field-manual.github.io/pre-survey-preparations
   excerpt: ""
-  image: /5x8/04_5x8.jpg
+  image: /5x8/zzz_teaser.jpg
 - title: "Field Procedures"
   url: https://towed-imagery-field-manual.github.io/field-procedures
   excerpt: ""
@@ -34,13 +30,8 @@
 - title: "Field Manual Maintenance"
   url: https://towed-imagery-field-manual.github.io/field-manual-maintenance
   excerpt: "Updates and developments"
-  image: /5x8/07_5x8.jpg
+  image: /5x8/field-manual-maintenance_teaser.jpg
 - title: "References"
   url: https://towed-imagery-field-manual.github.io//references
   excerpt: "Literature cited"
-  image: /5x8/8_5x8.jpg
-- title: "Field Manual Homepage"
-  url: https://www.nespmarine.edu.au/field-manuals
-  excerpt: "Back to all field manuals"
-  image: /5x8/NESP_5x8.jpg
-
+  image: /5x8/references_teaser.jpg
