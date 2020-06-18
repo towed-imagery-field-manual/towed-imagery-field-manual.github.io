@@ -5,6 +5,7 @@ title: "Towed Underwater Camera Systems"
 excerpt: ""
 image:
   feature: /banners/00_banner.png
+  credit: "Chris Gallen (NSW DPI)"
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
