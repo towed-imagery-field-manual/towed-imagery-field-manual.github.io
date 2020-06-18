@@ -1,5 +1,5 @@
 ---
-permalink: /towed-imagery-in-marine-monitoring
+permalink: /towed-underwater-cameras-in-marine-monitoring
 title: "Towed Underwater Cameras in Marine Monitoring"
 excerpt: "<br>"
 image:
