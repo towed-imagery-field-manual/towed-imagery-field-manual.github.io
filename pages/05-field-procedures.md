@@ -227,7 +227,7 @@ Table 7.2: Sample field datasheet to record metadata (i.e. deployment or event d
    </td>
    <td>Wire out (length)<sup>1</sup>
    </td>
-   <td>Wire out (angle)<sup> 1</sup>
+   <td>Wire out (angle)<sup>1</sup>
    </td>
    <td colspan="4" >Gear off bottom
    </td>
