@@ -4,7 +4,7 @@ permalink: /
 title: "Towed Underwater Camera Systems"
 excerpt: ""
 image:
-  feature: /banners/00_banner.jpg
+  feature: /banners/00_banner.JPG
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
