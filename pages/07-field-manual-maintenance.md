@@ -41,8 +41,5 @@ The version control for Chapter 7 (field manual for towed camera) is below:
   <tr>
    <td>2
    </td>
-   <td>Minor corrections, updates and clarifications.
-<p>
-Revised Data Release section 
-   </td>
+   <td>Minor corrections, updates and clarifications.<br>Revised Data Release section 
    <td>July 2020
