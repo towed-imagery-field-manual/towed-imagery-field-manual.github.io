@@ -16,4 +16,4 @@ page.button1.external_url:
 <i>Left image courtesy of the Marine National Facility. Right image courtesy of the Australian Institute of Marine Science</i>
 
 Chapter citation:
-Carroll A, Althaus F, Beaman R, Friedman A, Ierodiaconou D, Ingleton T, Jordan A, Linklater M, Monk J, Post A, Przeslawski R, Smith J, Stowar M, Tran M, Tyndall A. 2018. Marine sampling field manual for towed underwater camera systems. In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp. 131-152.
+Carroll A, Althaus F, Beaman R, Friedman A, Ierodiaconou D, Ingleton T, Jordan A, Linklater M, Monk J, Post A, Przeslawski R, Smith J, Stowar M, Tran M, Tyndall A. 2020. Marine sampling field manual for towed underwater camera systems. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version </em>2. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
