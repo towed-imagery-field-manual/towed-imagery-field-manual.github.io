@@ -14,7 +14,7 @@ page.button1.external_url:
 [Andrew Carroll](mailto:andrew.carroll@ga.gov.au), Franzis Althaus, Robin Beaman, Ariell Friedman, Daniel Ierodiaconou, Tim Ingleton, Alan Jordan, Michelle Linklater, Jacquomo Monk, Alix Post, Rachel Przeslawski, Jodie Smith, Marcus Stowar, Maggie Tran & Aaron Tyndall
 
 ![image alt text](images/front-page.jpg)<br>
-<i>Left image courtesy of the Marine National Facility. Right image courtesy of the Australian Institute of Marine Science</i>
+<i>Left: Australian Institute of Marine Science; Centre: Geoscience Australia; Right: Marine National Facility.</i>
 
 Chapter citation:
 Carroll A, Althaus F, Beaman R, Friedman A, Ierodiaconou D, Ingleton T, Jordan A, Linklater M, Monk J, Post A, Przeslawski R, Smith J, Stowar M, Tran M, Tyndall A. 2020. Marine sampling field manual for towed underwater camera systems. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version </em>2. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
