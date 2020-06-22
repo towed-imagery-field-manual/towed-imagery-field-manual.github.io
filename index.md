@@ -6,9 +6,6 @@ excerpt: ""
 image:
   feature: /banners/00_banner.png
   credit: "Chris Gallen (NSW DPI)"
-page.button1.external_url:
-  url: https://www.nespmarine.edu.au/
-  caption: NESP
 ---
 
 <div align="center"><p style="font-size:20px;"><a href="mailto:andrew.carroll@ga.gov.au">Andrew Carroll</a>, Franzis Althaus, Robin Beaman, Ariell Friedman, Daniel Ierodiaconou, Tim Ingleton, Alan Jordan, Michelle Linklater, Jacquomo Monk, Alix Post, Rachel Przeslawski, Jodie Smith, Marcus Stowar, Maggie Tran & Aaron Tyndall</p></div><br>
