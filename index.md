@@ -20,7 +20,7 @@ image:
 |  **[Platform Description](https://towed-imagery-field-manual.github.io/platform-description)**                                    |
 |  __[Scope](https://towed-imagery-field-manual.github.io/scope)__                                                                  |
 |  **[Towed Underwater Cameras in Marine Monitoring](https://towed-imagery-field-manual.github.io/towed-underwater-cameras-in-marine-monitoring)** |
-|  **[Pre-Survey Preparations](https://towed-imagery-field-manual.github.io/pre-survey-preparations)**                              |
+|  **[Pre-survey Preparations](https://towed-imagery-field-manual.github.io/pre-survey-preparations)**                              |
 |  **[Field Procedures](https://towed-imagery-field-manual.github.io/field-procedures)**                                            |
 |       _[Pre-deployment](https://towed-imagery-field-manual.github.io/field-procedures#pre-deployment)_    |
 |       _[Deployment](https://towed-imagery-field-manual.github.io/field-procedures#deployment)_       |
@@ -37,6 +37,5 @@ image:
 |  **[Field Manual Maintenance](https://towed-imagery-field-manual.github.io/field-manual-maintenance)**                            |
 |  **[Acknowledgements](https://towed-imagery-field-manual.github.io/acknowledgements)**                                            |
 |  **[References](https://towed-imagery-field-manual.github.io/references)**                                                        |
-
 
 <a href="#" class="scrollUpButton">Back to top</a>
