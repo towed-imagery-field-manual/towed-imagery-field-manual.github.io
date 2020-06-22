@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: media
 permalink: /
 title: "Towed Underwater Camera Systems"
 excerpt: ""
