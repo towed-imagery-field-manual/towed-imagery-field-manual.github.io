@@ -1,7 +1,7 @@
 # Site navigation links
 - title: "Download field manual"
   url: https://towed-imagery-field-manual.github.io/files/Chapter%207_Towed%20Imagery%20Field%20Manual%20V2.pdf
-  excerpt: "Download chapter as a PDF"
+  excerpt: ""
   image: /5x8/download_5x8.jpg
 - title: "Platform Description"
   url: https://towed-imagery-field-manual.github.io/platform-description
@@ -9,7 +9,7 @@
   image: /5x8/vvv_teaser.jpg
 - title: "Scope"
   url: https://towed-imagery-field-manual.github.io/scope
-  excerpt: "Scope for the towed imagery field manual"
+  excerpt: ""
   image: /5x8/xxx_teaser.jpg
 - title: "Towed Underwater Cameras in Marine Monitoring"
   url: https://towed-imagery-field-manual.github.io/towed-underwater-cameras-in-marine-monitoring
@@ -29,7 +29,7 @@
   image: /5x8/06_5x8.jpg
 - title: "Field Manual Maintenance"
   url: https://towed-imagery-field-manual.github.io/field-manual-maintenance
-  excerpt: "Updates and developments"
+  excerpt: ""
   image: /5x8/field-manual-maintenance_teaser.jpg
 - title: "Acknowledgements"
   url: https://towed-imagery-field-manual.github.io/acknowledgements
@@ -37,5 +37,5 @@
   image: /5x8/acknowledgements_teaser.jpg
 - title: "References"
   url: https://towed-imagery-field-manual.github.io//references
-  excerpt: "Literature cited"
+  excerpt: ""
   image: /5x8/references_teaser.jpg
