@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: main
 permalink: /
 title: "Towed Underwater Camera Systems"
 excerpt: ""
