@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: main
 permalink: /
 title: "Towed Underwater Camera Systems"
 excerpt: ""
@@ -11,13 +11,12 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Andrew Carroll](mailto:andrew.carroll@ga.gov.au), Franzis Althaus, Robin Beaman, Ariell Friedman, Daniel Ierodiaconou, Tim Ingleton, Alan Jordan, Michelle Linklater, Jacquomo Monk, Alix Post, Rachel Przeslawski, Jodie Smith, Marcus Stowar, Maggie Tran & Aaron Tyndall
-
-![image alt text](images/front-page.jpg)<br>
+<div align="center"><p style="font-size:20px;"><a href="mailto:andrew.carroll@ga.gov.au">Andrew Carroll</a>, Franzis Althaus, Robin Beaman, Ariell Friedman, Daniel Ierodiaconou, Tim Ingleton, Alan Jordan, Michelle Linklater, Jacquomo Monk, Alix Post, Rachel Przeslawski, Jodie Smith, Marcus Stowar, Maggie Tran & Aaron Tyndall</p></div><br>
+<img src="images/front-page.jpg" width="100%">
 <i>Left: Australian Institute of Marine Science; Centre: Geoscience Australia; Right: Marine National Facility.</i>
-
-Chapter citation:
-Carroll A, Althaus F, Beaman R, Friedman A, Ierodiaconou D, Ingleton T, Jordan A, Linklater M, Monk J, Post A, Przeslawski R, Smith J, Stowar M, Tran M, Tyndall A. 2020. Marine sampling field manual for towed underwater camera systems. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version </em>2. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
+<br>
+<br>
+<strong>Chapter citation:</strong><br>Carroll A, Althaus F, Beaman R, Friedman A, Ierodiaconou D, Ingleton T, Jordan A, Linklater M, Monk J, Post A, Przeslawski R, Smith J, Stowar M, Tran M, Tyndall A. 2020. Marine sampling field manual for towed underwater camera systems. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version </em>2. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
 
 | Chapter Contents                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------|
