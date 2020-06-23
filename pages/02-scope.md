@@ -16,9 +16,9 @@ The primary aim of this field manual is to establish a consistent approach to ma
 <img src="images/figures/image1.png" width="70%">
 
 
-Figure 7.1: Types of towed camera systems deployed in Australian waters. a) MNFs Deep Towed Camera platform; b) and c) AIMS towed camera platform being deployed off RV Solander; d) towed camera platform being trialled by Geoscience Australia off RV Southern Surveyor; e) and f) Deakin University towed video system.  
+**Figure 7.1:** Types of towed camera systems deployed in Australian waters. a) MNFs Deep Towed Camera platform; b) and c) AIMS towed camera platform being deployed off RV Solander; d) towed camera platform being trialled by Geoscience Australia off RV Southern Surveyor; e) and f) Deakin University towed video system.  
 
-Table 7.1: Types of towed camera systems deployed in Australian waters and their main characteristics. Note this list is not comprehensive. See reviews on towed cameras and perspectives in visual imagining for information about gear deployed elsewhere in the world (Durden et al. 2016a). 
+**Table 7.1:** Types of towed camera systems deployed in Australian waters and their main characteristics. Note this list is not comprehensive. See reviews on towed cameras and perspectives in visual imagining for information about gear deployed elsewhere in the world (Durden et al. 2016a). 
 
 
 <table>
@@ -118,4 +118,4 @@ Table 7.1: Types of towed camera systems deployed in Australian waters and their
 
 <img src="images/figures/image2.png" width="70%">
 
-Figure 7.2: Workflow for towed camera image acquisition and processing. Purple represents onboard methods, while blue represents post-survey methods.
+**Figure 7.2:** Workflow for towed camera image acquisition and processing. Purple represents onboard methods, while blue represents post-survey methods.

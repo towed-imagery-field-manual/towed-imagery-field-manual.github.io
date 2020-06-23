@@ -212,7 +212,7 @@ FSTV_LN2018_V02_012_20180606T152501Z_00001.jpg
 
 <span style="text-decoration:underline;">Backup data.</span> This is necessary to ensure all data collected in the field are safely returned and securely backed-up at host facilities, prior to final quality control and public release. Onboard copies of data should be made as soon as practically possible following acquisition. It is recommended that all data be backed up on a RAID or a NAS that contains built-in storage redundancy in case of hard-drive failure. A duplicate copy of all data onto external hard drives or LTO tapes for transportation back to host facilities is [_Recommended_].   <span style="text-decoration:underline;">  </span>
 
-Table 7.2: Sample field datasheet to record metadata (i.e. deployment or event data) from each towed camera deployment. 
+**Table 7.2:** Sample field datasheet to record metadata (i.e. deployment or event data) from each towed camera deployment. 
 
 
 <table>
