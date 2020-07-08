@@ -8,7 +8,7 @@ image:
   credit: "Chris Gallen (NSW DPI)"
 ---
 <div align="center"><p style="font-size:20px;"><a href="mailto:andrew.carroll@ga.gov.au">Andrew Carroll</a>, Franzis Althaus, Robin Beaman, Ariell Friedman, Daniel Ierodiaconou, Tim Ingleton, Alan Jordan, Michelle Linklater, Jacquomo Monk, Alix Post, Rachel Przeslawski, Jodie Smith, Marcus Stowar, Maggie Tran & Aaron Tyndall</p></div><br>
-<img src="images/front-page.jpg" width="100%">
+<img src="images/index.png" width="100%">
 <i>Left: Australian Institute of Marine Science; Centre: Geoscience Australia; Right: Marine National Facility.</i>
 <br>
 <br>
