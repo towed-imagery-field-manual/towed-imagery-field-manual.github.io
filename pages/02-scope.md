@@ -116,6 +116,6 @@ The primary aim of this field manual is to establish a consistent approach to ma
 </tbody>
 </table>
 
-<img src="images/figures/image2.png" width="50%">
+<img src="images/figures/image2.png">
 
 **Figure 7.2:** Workflow for towed camera image acquisition and processing. Purple represents onboard methods, while blue represents post-survey methods.
