@@ -13,7 +13,7 @@ As still and video cameras can be mounted to tow bodies in a variety of ways (Fi
 
 The primary aim of this field manual is to establish a consistent approach to marine benthic sampling using towed camera systems that will facilitate statistically sound compilation between studies. Note that hybrid towed systems and other video-based monitoring platforms (e.g. dropped video cameras, or video and still cameras mounted on sleds or trawls) that are commonly used to gather qualitative sample data (e.g. general animal behaviour) fall outside the scope of this manual. 
 
-<img src="images/figures/image1.png" width="60%">
+<img src="images/figures/image1.png">
 
 
 **Figure 7.1:** Types of towed camera systems deployed in Australian waters. a) MNFs Deep Towed Camera platform; b) and c) AIMS towed camera platform being deployed off RV Solander; d) towed camera platform being trialled by Geoscience Australia off RV Southern Surveyor; e) and f) Deakin University towed video system.  
