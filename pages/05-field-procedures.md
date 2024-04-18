@@ -27,44 +27,44 @@ Allow sufficient time during survey mobilisation to undertake system checks, cal
 
 
 
-*   On-board storage;
-*   On-board power;
-*   Cameras, including a review of image quality (colour chart test);
-*   Lights and strobes;
-*   Seals/o-rings;
-*   Recording devices (e.g. computer/s with appropriate software, USB drives, SD cards etc);
-*   File copy times for offline recording devices (e.g. GoPro);
-*   Winch operation;
-*   Sea fastening;
-*   Surface communications; and
-*   X-Y-Z coordinates from the tether termination to the imaging chip of each camera, altimeter, depth sensor/CTD and transponder.
+* On-board storage;
+* On-board power;
+* Cameras, including a review of image quality (colour chart test);
+* Lights and strobes;
+* Seals/o-rings;
+* Recording devices (e.g. computer/s with appropriate software, USB drives, SD cards etc);
+* File copy times for offline recording devices (e.g. GoPro);
+* Winch operation;
+* Sea fastening;
+* Surface communications; and
+* X-Y-Z coordinates from the tether termination to the imaging chip of each camera, altimeter, depth sensor/CTD and transponder.
 
 <span style="text-decoration:underline;">Wet testing</span> should include checks of the following:
 
 
 
-*   Power;
-*   Cameras, including a review of image quality;
-*   Acoustic tracking system (USBL) and any internal navigation; and
-*   Lighting and strobes.
+* Power;
+* Cameras, including a review of image quality;
+* Acoustic tracking system (USBL) and any internal navigation; and
+* Lighting and strobes.
 
 <span style="text-decoration:underline;">Acoustic tracking setup:</span>
 
 
 
-*   Set position of GPS receiver. Differential GPS is recommended as a minimum and is mandatory for repeat site monitoring;
-*   Deploy acoustic tracking transceiver (e.g. pole, flange or vessel mounted);
-*   Measure offsets of USBL transceiver head to GPS receiver and put offsets into navigation system; and
-*   Ensure accurate vessel dimensions are obtained and entered into the vessel plan repository of the navigation software.
+* Set position of GPS receiver. Differential GPS is recommended as a minimum and is mandatory for repeat site monitoring;
+* Deploy acoustic tracking transceiver (e.g. pole, flange or vessel mounted);
+* Measure offsets of USBL transceiver head to GPS receiver and put offsets into navigation system; and
+* Ensure accurate vessel dimensions are obtained and entered into the vessel plan repository of the navigation software.
 
 <span style="text-decoration:underline;">Stills camera time calibration</span>
 
 
 
-*   Calibrate the stills camera and video feed from GPS in the video overlay relative to UTC time;
-*   Ensure all sensor logging systems, cameras, computers have been synchronised to UTC time;
-*   Time coding calibration should be applied at the commencement of a survey and checked for consistency at least once a day while the survey is in progress; and
-*   Ensure recording media/storage devices are working correctly and review imagery/video.
+* Calibrate the stills camera and video feed from GPS in the video overlay relative to UTC time;
+* Ensure all sensor logging systems, cameras, computers have been synchronised to UTC time;
+* Time coding calibration should be applied at the commencement of a survey and checked for consistency at least once a day while the survey is in progress; and
+* Ensure recording media/storage devices are working correctly and review imagery/video.
 
 
 ### Pre-deployment checks
@@ -74,16 +74,16 @@ Allow sufficient time during survey mobilisation to undertake system checks, cal
 1. Ensure all personnel understand their roles by conducting an appropriate toolbox talk, incorporating risk assessment and appropriate PPE to be worn. See Chapter 1 for further information about risk assessments.
 2. Confirm with the vessel Master that GPS tracks for the proposed deployments are accurate and the order of transect sampling is clearly communicated.
 3. Discuss the desired target location and the feasibility of deploying at that location. Main items to take into account are:
-*   Terrain. To minimise the risk of a deployment almost all tows will be conducted on either a flat or downward sloping seafloor. This will reduce the chance of the camera hooking up and allow for the platform to fly out into deeper water if there is a winch failure. Consider if there are any large ridges, boulders, drop-offs, etc. along the proposed tow route as with minimal forward vision, 10 m or less, there is not a large margin for avoidance.
-*   Weather/sea state. When the camera is flying along the ocean floor, the ship will need to travel at ~ 0.5-1ms<sup>-1</sup>. This can limit the manoeuvrability of the ship and depending on the direction of the prevailing wind and swell, is not always possible on a particular heading. As the sea-state and swell can affect the ships manoeuvrability when travelling at low speeds it is essential to regularly check the weather forecast to ensure the sea state is acceptable and the platform can be safely deployed and retrieved.
-*   Depth. Be aware of the depth limitations of the towed body and the wire that the platform is deployed on.
+* Terrain. To minimise the risk of a deployment almost all tows will be conducted on either a flat or downward sloping seafloor. This will reduce the chance of the camera hooking up and allow for the platform to fly out into deeper water if there is a winch failure. Consider if there are any large ridges, boulders, drop-offs, etc. along the proposed tow route as with minimal forward vision, 10 m or less, there is not a large margin for avoidance.
+* Weather/sea state. When the camera is flying along the ocean floor, the ship will need to travel at ~ 0.5-1ms<sup>-1</sup>. This can limit the manoeuvrability of the ship and depending on the direction of the prevailing wind and swell, is not always possible on a particular heading. As the sea-state and swell can affect the ships manoeuvrability when travelling at low speeds it is essential to regularly check the weather forecast to ensure the sea state is acceptable and the platform can be safely deployed and retrieved.
+* Depth. Be aware of the depth limitations of the towed body and the wire that the platform is deployed on.
 4. The vessel Master must approve each deployment and communicate with crew prior to launch.
 5. Prepare tow body on deck and ensure only essential personnel participate in its preparation and deployment.
 6. Check for correct operation of cameras and lights (check explicitly for miss-timing between image capture and strobe firing) and winch including watertight seals, power requirements, hydraulic power and hoses, time synchronisation (PC, USBL, camera systems) and recording media. (e.g. check all recording systems are synchronised to UTC time).
 7. If necessary, attach the USBL beacon to the frame and check that it is operational.
 8. Perform laser alignments as per manufacturer’s procedure.
 9. Inspect the platform for any deterioration in cables and cable ties, ensure frame nuts and bolts are tight and all equipment mounts are secure.
-10. Ensure all connection to pressure housings and equipment are tight and secure.
+10. Ensure all connections to pressure housings and equipment are tight and secure.
 11. Ensure the winch clutch or load relief mechanism is adjusted to the correct tension prior to initial deployment.
 12. Once all instruments are confirmed working, handclap within an overlapping field of view of all cameras. 
 13. Inform the bridge and deck you are ready to deploy and wait for confirmation from the bridge that the ship is at deployment speed and is approaching the start of the survey line.
@@ -109,7 +109,7 @@ Allow sufficient time during survey mobilisation to undertake system checks, cal
 27. To mitigate any positional errors, it is important to carefully monitor the ship speed and deployment rate to an appropriate ratio. If you have reached the seafloor too early, try to resist speeding up the ship. This will cause the platform to rise when speeding up and fall uncontrollably when slowing down again.
 28. Continue descent to a pre-determined height above the seafloor (e.g. 2–3m) and try to maintain this height throughout the tow using the winch remote control. Record/document the time the target depth (i.e. altitude) is reached (typically this is at the start of the transect where data collection begins, unless the objective of the work includes water column imagery acquisition during descent). Note: hauling in cable onto the winch or paying out cable has an immediate effect on the camera platform height above the seafloor; however, the degree of change on height above bottom is in relation to the cable angle, which is determined by the vessel’s speed and current.
 29. Confirm still photos are being taken and video feeds are being recorded where possible (e.g. recording indicators, hard drive operating).
-30. Confirm timecode being embedded is GPS-time accurate.
+30. Confirm the timecode being embedded is GPS-time accurate.
 31. If employing real-time annotation, record the time and position of the camera on the seafloor (See Pre-Survey Preparations).
 32. While maintaining a consistent flying altitude above the seabed, the co-pilot needs to continually check the camera feeds to ensure all footage is being recorded and anticipate the need to come up on the winch so as to avoid approaching obstacles and minimise the chance of a seabed hook-up, and review.
 33. Monitor sea conditions during deployment to maintain a safe working environment.
@@ -129,8 +129,8 @@ Allow sufficient time during survey mobilisation to undertake system checks, cal
 41. If safe to do so, ensure the crew grab hold of the tow body as soon as the tow body leaves the water, so it can be guided safely away forward of the transom and lowered to the deck. Alternatively from small vessels, boat hooks with loaded snap-buckles on tether-lines can be attached just below the surface before the tow body leaves the water. Ends of tether-lines can be pre-fed through A-Frame cleats to control the ‘swing’ of the tow-fish as it rises out of the water and is brought up on deck.
 42. Once clear of the water, stop all recordings, and turn all cameras, sensors and power off.
 43. Rinse the towed platform frame and all camera(s)/sensors with fresh water.
-44. If attached, remove USBL beacon and recharge.
-45. Check and rename video footage, still camera photos and log files and complete Metadata Information sheet. Archive all data files (imagery, sensor data, metadata) on a drive that is backed-up regularly (see Section 7.5.6 On-board data processing and storage) 
+44. If attached, remove the USBL beacon and recharge.
+45. Check and rename video footage, still camera photos and log files and complete Metadata Information sheet. Archive all data files (imagery, sensor data, metadata) on a drive that is backed-up regularly (see Section 7.5.6 On-board data processing and storage).
 
 
 ## Seabed hook-up procedures
@@ -155,11 +155,11 @@ Prior to any vessel movement or engine start-up, operators should check the foll
 
 
 
-*    All equipment is clear of the water, including acoustic tracking equipment;
-*   All gear is safely stowed and powered down where appropriate;
-*   Any servicing that requires the vessel to be stationary is completed;
-*   When the towed camera team is satisfied it is OK for the vessel to move on, an “All Clear to Move” command should be given to Vessel Master; and
-*   Data collected from previous tows should be checked for integrity prior to deploying the towed system on further tows.
+*  All equipment is clear of the water, including acoustic tracking equipment;
+* All gear is safely stowed and powered down where appropriate;
+* Any servicing that requires the vessel to be stationary is completed;
+* When the towed camera team is satisfied it is OK for the vessel to move on, an “All Clear to Move” command should be given to Vessel Master; and
+* Data collected from previous tows should be checked for integrity prior to deploying the towed system on further tows.
 
 
 ## Onboard data processing and storage
@@ -174,17 +174,17 @@ For example, CSIRO uses ‘Platform_Camera_Survey_deployment_YYYYMMDDThhmmssZ_ot
 
 
 
-*   Campaign (i.e. Survey identifier)
-*   Station/event number 
-*   Platform
-*   Latitude and longitude (WGS 1984 in decimal degrees [Recommended])
-*   Altitude
-*   Depth
-*   Time and date stamp
-*   Platform and/or vessel motion (roll, pitch, heave) 
-*   Metadata from other sensor data (see example below, CSIRO data file headers)
-*   Precision details (e.g. type of navigation system used and its associated errors) 
-*   Data provenance 
+* Campaign (i.e. Survey identifier)
+* Station/event number 
+* Platform
+* Latitude and longitude (WGS 1984 in decimal degrees [Recommended])
+* Altitude
+* Depth
+* Time and date stamp
+* Platform and/or vessel motion (roll, pitch, heave) 
+* Metadata from other sensor data (see example below, CSIRO data file headers)
+* Precision details (e.g. type of navigation system used and its associated errors) 
+* Data provenance 
 
 <span style="text-decoration:underline;">Example Video (MNF):</span>
 
@@ -206,754 +206,440 @@ FSTV_LN2018_V02_012_20180606T152501Z_00001.jpg
 
 
 
-*   Mis-timing between image capture and strobes (i.e. dark/black imagery)
-*   Failure of camera/s 
-*   Failure of positional logging
+* Mis-timing between image capture and strobes (i.e. dark/black imagery)
+* Failure of camera/s 
+* Failure of positional logging
 
 <span style="text-decoration:underline;">Backup data.</span> This is necessary to ensure all data collected in the field are safely returned and securely backed-up at host facilities, prior to final quality control and public release. Onboard copies of data should be made as soon as practically possible following acquisition. It is recommended that all data be backed up on a RAID or a NAS that contains built-in storage redundancy in case of hard-drive failure. A duplicate copy of all data onto external hard drives or LTO tapes for transportation back to host facilities is [_Recommended_].   <span style="text-decoration:underline;">  </span>
+
 
 **Table 7.2:** Sample field datasheet to record metadata (i.e. deployment or event data) from each towed camera deployment. 
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hacp{background-color:#DDEBF4;text-align:left;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-61in{background-color:#629ACD;text-align:left;vertical-align:top}
+.tg .tg-3mv5{background-color:#629ACD;color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1143px">
+<colgroup>
+<col style="width: 54px">
+<col style="width: 50px">
+<col style="width: 52px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 78px">
+<col style="width: 114px">
+<col style="width: 114px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 51px">
+<col style="width: 69px">
+</colgroup>
+<thead>
   <tr>
-   <td>
-   </td>
-   <td colspan="3" >Gear in water
-   </td>
-   <td colspan="4" >Gear on bottom
-   </td>
-   <td>Tow speed
-   </td>
-   <td>Wire out (length)<sup>1</sup>
-   </td>
-   <td>Wire out (angle)<sup>1</sup>
-   </td>
-   <td colspan="4" >Gear off bottom
-   </td>
-   <td colspan="3" >Gear out of water
-   </td>
-   <td>Notes
-   </td>
+    <th class="tg-61in"></th>
+    <th class="tg-3mv5" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Gear in water</span></th>
+    <th class="tg-3mv5" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Gear on bottom</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Tow speed</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Wire out (length)</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Wire out (angle)</span> </th>
+    <th class="tg-3mv5" colspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Gear off bottom</span></th>
+    <th class="tg-3mv5" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Gear out of water</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Notes</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tow ID</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Long</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lat</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Time</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Long</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lat</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Time</span></td>
+    <td class="tg-hacp"></td>
+    <td class="tg-hacp"></td>
+    <td class="tg-hacp"></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Long</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lat</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Time</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Long</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lat</span></td>
+    <td class="tg-hacp"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Time</span></td>
+    <td class="tg-hacp"></td>
   </tr>
   <tr>
-   <td>Tow ID
-   </td>
-   <td>Long
-   </td>
-   <td>Lat
-   </td>
-   <td>Time
-   </td>
-   <td>Long
-   </td>
-   <td>Lat
-   </td>
-   <td>Depth
-   </td>
-   <td>Time
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Long
-   </td>
-   <td>Lat
-   </td>
-   <td>Depth
-   </td>
-   <td>Time
-   </td>
-   <td>Long
-   </td>
-   <td>Lat
-   </td>
-   <td>Time
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
+    <td class="tg-5jfb"></td>
   </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+</tbody>
 </table>
