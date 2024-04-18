@@ -26,14 +26,10 @@ Scoring of individual images can be done using a number of annotation software t
 
 There are two main approaches recommended for annotating georeferenced imagery from towed camera systems:
 
-
-
 *   Annotation of individual images/frame grabs (real-time or post-acquisition)
 *   Annotation of photomosaics
 
-Annotation of individual images or photomosaics can be undertaken using two methods:
-
-
+A how-to guide about setting up annotation media sets within Squidle+ is provided at [https://squidle.org/wik](https://squidle.org/wiki)<span style="text-decoration:underline;">i. </span>Annotation of individual images or photomosaics can be undertaken using two methods:
 
 1. <span style="text-decoration:underline;">Full assemblage scoring of imagery</span> across space and time. It is important to note that this is a time consuming process, requiring a lot of replicate images to be scored to enable sufficient power to detect biologically meaningful change as most morphospecies are &lt; 10 % cover within images. This approach appears to be good for delineating bioregional and cross-shelf patterns at a morphospecies and CATAMI (Althaus et al. 2015) level (Monk et al. 2016, James et al. 2017). This approach would be effective in choosing an initial suite of indicators for national level monitoring and reporting. 
 
