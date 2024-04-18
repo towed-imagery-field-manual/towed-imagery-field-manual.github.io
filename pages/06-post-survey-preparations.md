@@ -14,10 +14,10 @@ Image/video post-processing, selection and annotation method and detail will dep
 
 
 
-*   A general workflow for data processing methodology can be found in Williams et al. (2012a). If constructing photomosaics from imagery, key requirements for raw image processing and positional data are as follows:
-*   It is recommended that at least one of the stereo images is in colour and enhanced following similar procedures as outlined by Shortis and Harvey (2009) and Bryson et al. (2016). 
-*   All stereo images should be georectified following Williams et al. (2012b).
-*   Positional data should be post-processed using Simultaneous Localisation and Mapping (SLAM) as demonstrated in (Barkby et al. 2009) and (Palomer et al. 2013).
+* A general workflow for data processing methodology can be found in Williams et al. (2012a). If constructing photomosaics from imagery, key requirements for raw image processing and positional data are as follows:
+* It is recommended that at least one of the stereo images is in colour and enhanced following similar procedures as outlined by Shortis and Harvey (2009) and Bryson et al. (2016). 
+* All stereo images should be georectified following Williams et al. (2012b).
+* Positional data should be post-processed using Simultaneous Localisation and Mapping (SLAM) as demonstrated in (Barkby et al. 2009) and (Palomer et al. 2013).
 
 
 ## Annotation framework
@@ -26,10 +26,14 @@ Scoring of individual images can be done using a number of annotation software t
 
 There are two main approaches recommended for annotating georeferenced imagery from towed camera systems:
 
-*   Annotation of individual images/frame grabs (real-time or post-acquisition)
-*   Annotation of photomosaics
+
+
+* Annotation of individual images/frame grabs (real-time or post-acquisition)
+* Annotation of photomosaics
 
 A how-to guide about setting up annotation media sets within Squidle+ is provided at [https://squidle.org/wik](https://squidle.org/wiki)<span style="text-decoration:underline;">i. </span>Annotation of individual images or photomosaics can be undertaken using two methods:
+
+
 
 1. <span style="text-decoration:underline;">Full assemblage scoring of imagery</span> across space and time. It is important to note that this is a time consuming process, requiring a lot of replicate images to be scored to enable sufficient power to detect biologically meaningful change as most morphospecies are &lt; 10 % cover within images. This approach appears to be good for delineating bioregional and cross-shelf patterns at a morphospecies and CATAMI (Althaus et al. 2015) level (Monk et al. 2016, James et al. 2017). This approach would be effective in choosing an initial suite of indicators for national level monitoring and reporting. 
 
@@ -45,6 +49,7 @@ A how-to guide about setting up annotation media sets within Squidle+ is provide
 
 Data quality control at both the collection and annotation stage is critical. Most importantly, the annotation schema needs to be consistent between studies. Where possible morphospecies and associated CATAMI parent classes should be used _[Recommended]_. Clearly, other annotation schemas are available and can be applied. Where an alternative schema is used to annotate towed camera imagery, it is most important that it can be mapped to CATAMI so that comparisons can be made with previous studies or between regions. Translations between schema can be readily applied within Squidle +. Squidle+ has a built-in QAQC interface to ensure the consistency of annotations with exemplars managed by schema custodians. The quality control of all annotations undertaken by novice scorers should be assessed against an experienced analyst (e.g. using confusion matrices; see Figure 4.4 in Chapter 4). Logically, it is important to correct any discrepancies between annotators. This can be done by re-examining the images to ensure an agreement can be reached between annotators. Alternatively, if an agreement cannot be reached, then the miss-classified morphospecies could be potentially grouped into a higher level CATAMI class.
 
+
 ## Data release
 
 [Squidle+](http://squidle.greybits.com.au/) is a centralised online platform for standardised analysis and annotation of georeferenced imagery and video. Many national marine observing programs (for example IMOS through the Australian Ocean Data Network (AODN), or the Marine Geoscience Data System (MGDS) in the USA) routinely store imagery data online in an openly accessible location. Squidle + operates based on flexible distributed data storage facilities (i.e. imagery can be stored anywhere in an openly accessible online location) to reduce data duplication and inconsistencies, and provides a flexible annotation system with the capability to translate between different annotation schemes.
@@ -53,16 +58,16 @@ Following the steps listed below will ensure the timely release of imagery and a
 
 
 
-54. Create a metadata record describing the data collection. Provide as much detail as possible on the deployment (either directly in the metadata record itself, or in the form of attached field sheets as .csv, .txt or similar). Details of minimum metadata requirements are provided in the On-board Data Storage section above. Publish metadata record(s) to the [Australian Ocean Data Network (AODN) catalogue](http://catalogue.aodn.org.au/geonetwork/srv/eng/main.home) as soon as possible after metadata has been QC-d. This can be done in one of two ways:
-*   If metadata from your agency is regularly harvested by the AODN, follow agency-specific protocols for metadata and data release. 
-*   Otherwise, metadata records can be created and submitted via the [AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit). Note that user registration is required, but this is free and immediate. As of January 2024, this tool is under maintenance, and metadata submissions should be sent to info@aodn.org.au until it is again active.
+1. Create a metadata record describing the data collection. Provide as much detail as possible on the deployment (either directly in the metadata record itself, or in the form of attached field sheets as .csv, .txt or similar). Details of minimum metadata requirements are provided in the On-board Data Storage section above. Publish metadata record(s) to the [Australian Ocean Data Network (AODN) catalogue](http://catalogue.aodn.org.au/geonetwork/srv/eng/main.home) as soon as possible after metadata has been QC-d. This can be done in one of two ways:
+* If metadata from your agency is regularly harvested by the AODN, follow agency-specific protocols for metadata and data release. 
+* Otherwise, metadata records can be created and submitted via the [AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit). Note that user registration is required, but this is free and immediate. As of January 2024, this tool is under maintenance, and metadata submissions should be sent to [info@aodn.org.au](mailto:info@aodn.org.au) until it is again active.
 
-    	Lodging metadata with AODN in advance of annotation data being available is an important step in documenting the methods and location of acquired imagery and enhancing future discoverability of the data.
+  Lodging metadata with AODN in advance of annotation data being available is an important step in documenting the methods and location of acquired imagery and enhancing future discoverability of the data.
 
-55. Upload raw imagery from the survey to a secure, publicly accessible online repository ([contact AODN](mailto:info@aodn.org.au) if you require assistance in locating a suitable repository).
-56. Create a [Squidle+](https://squidle.org/) campaign as soon as possible after imagery is uploaded, choose the most appropriate annotation schema, and commence annotation of imagery.
-57. Add links to the location of the [Squidle+](https://squidle.org/) campaign to the previously published metadata record. You may also wish to attach or link a copy of the annotation data directly to the record.
-58. Produce a technical or post-survey report documenting the purpose of the survey, sampling design, sampling locations, sampling equipment specifications, annotation schema (e.g. morphospecies, CATAMI, etc.), and any challenges or limitations encountered. Provide links to this report in all associated metadata _[Recommended]_
+2. Upload raw imagery from the survey to a secure, publicly accessible online repository ([contact AODN](mailto:info@aodn.org.au) if you require assistance in locating a suitable repository).
+3. Create a [Squidle+](https://squidle.org/) campaign as soon as possible after imagery is uploaded, choose the most appropriate annotation schema, and commence annotation of imagery.
+4. Add links to the location of the [Squidle+](https://squidle.org/) campaign to the previously published metadata record. You may also wish to attach or link a copy of the annotation data directly to the record.
+5. Produce a technical or post-survey report documenting the purpose of the survey, sampling design, sampling locations, sampling equipment specifications, annotation schema (e.g. morphospecies, CATAMI, etc.), and any challenges or limitations encountered. Provide links to this report in all associated metadata _[Recommended]_
 
 The workflow for the discoverability and accessibility of marine imagery from towed systems is still under development, with several issues related to long-term support and functionality pending (Przeslawski et al. 2019).
 
