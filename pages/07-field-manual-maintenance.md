@@ -12,34 +12,48 @@ In accordance with the universal field manual maintenance protocol described in 
 
 The version control for Chapter 7 (field manual for towed camera) is below:
 
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aoc0{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 993px">
+<colgroup>
+<col style="width: 118px">
+<col style="width: 654px">
+<col style="width: 221px">
+</colgroup>
 <thead>
   <tr>
-   <td><strong>Version Number</strong></td>
-   <td><strong>Description</strong></td>
-   <td><strong>Date</strong></td>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Version Number</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Description</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Date</span></th>
   </tr>
-  </thead>
-  <tbody>
+</thead>
+<tbody>
   <tr>
-   <td>0
-   </td>
-   <td>Submitted for review (NESP Marine Hub, GA, external reviewers as listed Appendix A.
-   </td>
-   <td>22 Dec 2017
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">0</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Submitted for review (NESP Marine Hub, GA, external reviewers as listed Appendix A.</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">22 Dec 2017</span></td>
   </tr>
   <tr>
-   <td>1
-   </td>
-   <td>Publicly released on <a href="http://www.nespmarine.edu">www.nespmarine.edu</a> 
-   </td>
-   <td>28 Feb 2018
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Publicly released on </span><a href="http://www.nespmarine.edu/"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">www.nespmarine.edu</span></a><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">28 Feb 2018</span></td>
   </tr>
   <tr>
-   <td>2
-   </td>
-   <td>Minor corrections, updates and clarifications.<br>Revised Data Release section 
-   <td>July 2020
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minor corrections, updates and clarifications.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Revised Data Release section </span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minor updates</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">March 2024</span></td>
+  </tr>
+</tbody>
+</table>
