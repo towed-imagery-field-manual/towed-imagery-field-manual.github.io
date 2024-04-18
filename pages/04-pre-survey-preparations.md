@@ -8,7 +8,9 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-<span style="text-decoration:underline;">Ensure all permits, safety plans and approvals (e.g. Animal Ethics) have been obtained.</span> Any research undertaken within AMPs requires a research permit issued from Parks Australia. See Appendix B for a list of potential permits that may be required.
+<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous Partnerships and Engagement](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration) in Chapter 1 for further details.
+
+<span style="text-decoration:underline;">Ensure all permits, safety plans and approvals (e.g. Animal Ethics) have been obtained.</span> Any research undertaken within AMPs requires a research permit issued from Parks Australia. Refer to AusSeabed’s permit guide for further useful information: [www.ausseabed.gov.au/resources/permit. ](https://www.ausseabed.gov.au/resources/permit)
 
 <span style="text-decoration:underline;">Confirm sampling design meets survey objectives</span>, is achievable with planned equipment and time, and has been communicated to all key scientists and managers. Generally, the sampling design in an ecological study should be statistically sound with adequate spatial coverage and replication, and it should use an explicit randomization procedure to ensure that independent replicates are obtained (Durden et al. 2016a). Increasing sample size where possible will also help to better inform models, and increase the study’s robustness (Mitchell et al. 2017). See Chapter 2 for further details on sampling design.
 
