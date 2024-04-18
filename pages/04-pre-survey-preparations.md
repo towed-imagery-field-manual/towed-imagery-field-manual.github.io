@@ -8,7 +8,8 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous Partnerships and Engagement](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration) in Chapter 1 for further details.
+<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous Partnerships and Engagement](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration) in Chapter 1 for further details. \
+
 
 <span style="text-decoration:underline;">Ensure all permits, safety plans and approvals (e.g. Animal Ethics) have been obtained.</span> Any research undertaken within AMPs requires a research permit issued from Parks Australia. Refer to AusSeabed’s permit guide for further useful information: [www.ausseabed.gov.au/resources/permit. ](https://www.ausseabed.gov.au/resources/permit)
 
@@ -26,7 +27,7 @@ image:
 
 <span style="text-decoration:underline;">Ensure accurate geo-referencing (position, position, position!).</span> The geographic position and orientation of the camera(s) at the time of image capture is _critical _for ensuring accurate geo-referencing of an image (and the objects within it). This geographic position must be integrated with other sensor data to develop habitat maps or interpolations (see below). It is also critical for relating the sampled area to environmental covariates extracted from hydro-acoustic  (Mitchell et al. 2017) and other platform sensors (Shortis et al. 2007).
 
-<span style="text-decoration:underline;">Ensure synchronisation of time stamps.</span> The time standard (typically UTC) for a given survey needs to be pre-determined and strictly adhered to. Synchronisation of timestamps across all systems (e.g. USBL and other platform sensors, PC time(s), ship navigation, video and still camera systems) is _critical_ for ensuring accurate geo-referencing of images. Time accuracy to three decimal places is optimal.       
+<span style="text-decoration:underline;">Ensure synchronisation of time stamps_. _</span>The time standard (typically UTC) for a given survey needs to be pre-determined and strictly adhered to. Synchronisation of timestamps across all systems (e.g. USBL and other platform sensors, PC time(s), ship navigation, video and still camera systems) is _critical_ for ensuring accurate geo-referencing of images. Time accuracy to three decimal places is optimal.       
 
 <span style="text-decoration:underline;">Determine real-time annotation protocols, if desired.</span> Although real-time annotation is not required for this field manual, it is recognised that this is an established practice for many individuals and agencies. If a real-time imagery feed is available, follow agency-specific protocols for onboard annotation. At the least, a qualitative description can be written for each station, thus ensuring some information is immediately available for post-survey reporting and to guide subsequent analysis (see Appendix C) _[Recommended]_.
 
@@ -46,15 +47,14 @@ image:
 
 
 
-*   Archived survey (project) level: to specify the decisions regarding sampling design, image selection, platform used etc.
-*   Imagery platform level: camera types, camera orientation, sensors, instrumentation settings (should be kept stable throughout a survey, but metadata needs to reflect any adjustments/ changes made with a timestamp when they are made in the survey.
-*   At image/ video level (as per below). 
+* Archived survey (project) level: to specify the decisions regarding sampling design, image selection, platform used etc.
+* Imagery platform level: camera types, camera orientation, sensors, instrumentation settings (should be kept stable throughout a survey, but metadata needs to reflect any adjustments/ changes made with a timestamp when they are made in the survey.
+* At image/ video level (as per below).
 
 <span style="text-decoration:underline;">Consider how metadata will link to media type.</span> The most effective way to link visual imagery with metadata is by incorporation into a spatially enabled relational database (Bowden and Jones 2016), using the synchronised time stamps and GIS position for linking imagery and sensor data. Important considerations include:
 
 
 
-*   Archived file names should include Platform, Survey, Deployment, Date and Start-Time (e.g. Platform name_ survey name_deployment or site number_YYYY-MM-DDTHH:MM:SSZ_descriptor.json).
-*   If possible we recommend writing image metadata into EXIF fields embedded in the digital image file to ensure metadata are not separated from images.
-*   Geotagging video imagery is less established but various options exist including: i) Embedding position, date and time on the imagery itself suggest using an inconspicuous location within the field of view; ii) Utilizing the video audio track or closed-caption track to record position date and time using a geostamping device, iii) Proprietary video recording and playback equipment and /or software that associates position metadata with recorded video files (e.g. Streampix[ https://www.norpix.com/products/streampix/modules/gps.php](https://www.norpix.com/products/streampix/modules/gps.php); GeoDVR[ https://www.remotegeo.com/geospatial-video-recorders/geodvr-gen3/](https://www.remotegeo.com/mission/marine/subsea-rover)); and iv) Embedding UTC timecode into the video media file (e.g. Quicktime .imov files recorded by AJA KiPro devices can have timecode generated and embedded by a GPS-timecode generator).
-
+* Archived file names should include Platform, Survey, Deployment, Date and Start-Time (e.g. Platform name_ survey name_deployment or site number_YYYY-MM-DDTHH:MM:SSZ_descriptor.json).
+* If possible we recommend writing image metadata into EXIF fields embedded in the digital image file to ensure metadata are not separated from images.
+* Geotagging video imagery is less established but various options exist including: i) Embedding position, date and time on the imagery itself suggest using an inconspicuous location within the field of view; ii) Utilizing the video audio track or closed-caption track to record position date and time using a geostamping device, iii) Proprietary video recording and playback equipment and /or software that associates position metadata with recorded video files (e.g. Streampix[ https://www.norpix.com/products/streampix/modules/gps.php](https://www.norpix.com/products/streampix/modules/gps.php); GeoDVR[ https://www.remotegeo.com/geospatial-video-recorders/geodvr-gen3/)](https://www.remotegeo.com/mission/marine/subsea-rover)); and iv) Embedding UTC timecode into the video media file (e.g. Quicktime .imov files recorded by AJA KiPro devices can have timecode generated and embedded by a GPS-timecode generator).
